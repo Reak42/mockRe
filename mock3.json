@@ -1,0 +1,10 @@
+{
+  "requiredOppId": "006Ec00000SouOfIAJ",
+  "requiredBookId": "95ceaa66-82da-4dfe-96ec-752f86174bee",
+
+  "data": {
+    "status": "APPROVED",
+    "limit": 25000,
+    "comment": "Mock response from GitHub JSON"
+  }
+}
