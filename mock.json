@@ -1,0 +1,1319 @@
+{
+    "accounts": [
+        {
+            "basic_info": {
+                "account_name": "BANK OF AMERICA",
+                "account_number": "0112",
+                "processing_time": 56.24
+            },
+            "bank_statement_facts": {
+                "statements": [
+                    {
+                        "transactions": [
+                            {
+                                "date": "03/01/2024",
+                                "page": 1,
+                                "tags": [
+                                    "unknown"
+                                ],
+                                "amount": 70310.35,
+                                "description": "DEPOSIT"
+                            },
+                            {
+                                "date": "03/01/2024",
+                                "page": 1,
+                                "tags": [],
+                                "amount": -61.5,
+                                "description": "SERVICE FEE"
+                            },
+                            {
+                                "date": "03/01/24",
+                                "page": 3,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 346.0,
+                                "description": "RAMIREZ ENTERPRI DES:DEPOSIT ID:DP85498716 INDN:DNASTUDIOSCORP CO ID:BIZEDP CCD PMT INFO:MIGUEL SANCHEZ PAYMENT. FEB 19- 25"
+                            },
+                            {
+                                "date": "03/01/24",
+                                "page": 3,
+                                "tags": [
+                                    "venmo_zelle_cashapp",
+                                    "revenue_deduction"
+                                ],
+                                "amount": 250.0,
+                                "description": "Zelle payment from NASER KHEIRABADI for \"For 1146 N D St pics\"; Conf# yskjtgs3k"
+                            },
+                            {
+                                "date": "03/01/24",
+                                "page": 3,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 88.79,
+                                "description": "Square Inc DES:240301P2 ID:L21371844632 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD"
+                            },
+                            {
+                                "date": "03/04/24",
+                                "page": 3,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 808.47,
+                                "description": "Square Inc DES:240304P2 ID:L21372017454 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD"
+                            },
+                            {
+                                "date": "03/04/24",
+                                "page": 3,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 52.32,
+                                "description": "Square Inc DES:240304P2 ID:L21372017453 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD"
+                            },
+                            {
+                                "date": "03/05/24",
+                                "page": 3,
+                                "tags": [
+                                    "atm"
+                                ],
+                                "amount": 1180.0,
+                                "description": "BKOFAMERICA ATM 03/05 #000009722 DEPOSIT WEST COVINA WEST COVINA CA"
+                            },
+                            {
+                                "date": "03/05/24",
+                                "page": 3,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 509.08,
+                                "description": "Square Inc DES:240305P2 ID:L21372134960 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD"
+                            },
+                            {
+                                "date": "03/06/24",
+                                "page": 3,
+                                "tags": [
+                                    "venmo_zelle_cashapp",
+                                    "revenue_deduction"
+                                ],
+                                "amount": 10800.0,
+                                "description": "Zelle payment from INC TKLA RESTAURANT for \"Business Expenses\"; Conf# 99aatoqva"
+                            },
+                            {
+                                "date": "03/06/24",
+                                "page": 3,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 249.28,
+                                "description": "Square Inc DES:240306P2 ID:L21372233591 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD"
+                            },
+                            {
+                                "date": "03/07/24",
+                                "page": 3,
+                                "tags": [
+                                    "atm"
+                                ],
+                                "amount": 715.0,
+                                "description": "BKOFAMERICA ATM 03/07 #000001575 DEPOSIT WEST COVINA WEST COVINA CA"
+                            },
+                            {
+                                "date": "03/07/24",
+                                "page": 3,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 186.54,
+                                "description": "Square Inc DES:240307P2 ID:L21372341641 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD"
+                            },
+                            {
+                                "date": "03/08/24",
+                                "page": 3,
+                                "tags": [
+                                    "unknown"
+                                ],
+                                "amount": 210.0,
+                                "description": "RAMIREZ ENTERPRI DES:DEPOSIT ID:DP86026330 INDN:DNASTUDIOSCORP CO ID:BIZEDP CCD PMT INFO:MIGUEL SANCHEZ PAYMENT FEB 26 - MAR 3"
+                            },
+                            {
+                                "date": "03/08/24",
+                                "page": 3,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 53.03,
+                                "description": "Square Inc DES:240308P2 ID:L21372461462 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD"
+                            },
+                            {
+                                "date": "03/11/24",
+                                "page": 3,
+                                "tags": [
+                                    "atm"
+                                ],
+                                "amount": 2170.0,
+                                "description": "BKOFAMERICA ATM 03/11 #000003960 DEPOSIT WEST COVINA WEST COVINA CA"
+                            },
+                            {
+                                "date": "03/11/24",
+                                "page": 3,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 825.81,
+                                "description": "Square Inc DES:240311P2 ID:L21372599539 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD"
+                            },
+                            {
+                                "date": "03/11/24",
+                                "page": 3,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 214.36,
+                                "description": "Square Inc DES:240311P2 ID:L21372599538 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD"
+                            },
+                            {
+                                "date": "03/12/24",
+                                "page": 3,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 425.75,
+                                "description": "Square Inc DES:240312P2 ID:L21372772180 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD"
+                            },
+                            {
+                                "date": "03/13/24",
+                                "page": 4,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 599.6,
+                                "description": "Topline Pro LLC DES:designanim ID: INDN:designanimations CO ID:XXXXXXXX CCD"
+                            },
+                            {
+                                "date": "03/13/24",
+                                "page": 4,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 151.48,
+                                "description": "Square Inc DES:240313P2 ID:L21372950472 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD"
+                            },
+                            {
+                                "date": "03/14/24",
+                                "page": 4,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 85.23,
+                                "description": "Square Inc DES:240314P2 ID:L21373057689 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD"
+                            },
+                            {
+                                "date": "03/15/24",
+                                "page": 4,
+                                "tags": [
+                                    "unknown"
+                                ],
+                                "amount": 385.0,
+                                "description": "RAMIREZ ENTERPRI DES:DEPOSIT ID:DP86428416 INDN:DNASTUDIOSCORP CO ID:BIZEDP CCD PMT INFO:MIGUEL SANCHEZ PAYMENT. MAR 4 - 10"
+                            },
+                            {
+                                "date": "03/15/24",
+                                "page": 4,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 39.46,
+                                "description": "Square Inc DES:240315P2 ID:L21373175826 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD"
+                            },
+                            {
+                                "date": "03/18/24",
+                                "page": 4,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 1993.0,
+                                "description": "Square Inc DES:240318P2 ID:L21373320428 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD"
+                            },
+                            {
+                                "date": "03/18/24",
+                                "page": 4,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 84.43,
+                                "description": "Square Inc DES:240318P2 ID:L21373320427 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD"
+                            },
+                            {
+                                "date": "03/18/24",
+                                "page": 4,
+                                "tags": [
+                                    "venmo_zelle_cashapp",
+                                    "revenue_deduction"
+                                ],
+                                "amount": 60.0,
+                                "description": "Zelle payment from BERENICE GAMONRIVERA Conf# T0534PMGK"
+                            },
+                            {
+                                "date": "03/18/24",
+                                "page": 4,
+                                "tags": [
+                                    "venmo_zelle_cashapp",
+                                    "revenue_deduction"
+                                ],
+                                "amount": 25.0,
+                                "description": "Zelle payment from LIZETH PRECIADO SILVA for 'Pics'; Conf# jzgmbr2v6"
+                            },
+                            {
+                                "date": "03/19/24",
+                                "page": 4,
+                                "tags": [
+                                    "atm"
+                                ],
+                                "amount": 3090.0,
+                                "description": "BKOFAMERICA ATM 03/19 #000006139 DEPOSIT WEST COVINA WEST COVINA CA"
+                            },
+                            {
+                                "date": "03/19/24",
+                                "page": 4,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 1425.0,
+                                "description": "Square Fin Svcs DES:Transfer ID:19568082267 INDN:Design & Animation Stu CO ID:9010020001 CCD"
+                            },
+                            {
+                                "date": "03/19/24",
+                                "page": 4,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 615.96,
+                                "description": "Square Inc DES:240319P2 ID:L21373457685 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD"
+                            },
+                            {
+                                "date": "03/20/24",
+                                "page": 4,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 18891.0,
+                                "description": "EXPANSION CAPITA DES:FUNDING ID:4612158 INDN:DESIGN AND ANIMATION S CO ID:1463411381 CCD"
+                            },
+                            {
+                                "date": "03/20/24",
+                                "page": 4,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 53.36,
+                                "description": "Square Inc DES:240320P2 ID:L21373555694 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD"
+                            },
+                            {
+                                "date": "03/21/24",
+                                "page": 4,
+                                "tags": [
+                                    "venmo_zelle_cashapp",
+                                    "revenue_deduction"
+                                ],
+                                "amount": 70.0,
+                                "description": "Zelle payment from BERENICE GAMONRIVERA Conf# T053FF7Q6"
+                            },
+                            {
+                                "date": "03/21/24",
+                                "page": 4,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 36.08,
+                                "description": "Square Inc DES:240321P2 ID:L21373662239 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD"
+                            },
+                            {
+                                "date": "03/22/24",
+                                "page": 4,
+                                "tags": [
+                                    "transfer",
+                                    "wire_transfer"
+                                ],
+                                "amount": 16585.0,
+                                "description": "WIRE TYPE:WIRE IN DATE: 240322 TIME:0502 ET TRN:2024032100342308 SEQ: /000066 ORIG:FUNDING METRICS LLC ID:1016476796 SND BK:LAKE CITY BANK ID:074903719 PMT DET:A-0011008653 C2403 2105000012"
+                            },
+                            {
+                                "date": "03/22/24",
+                                "page": 4,
+                                "tags": [
+                                    "atm"
+                                ],
+                                "amount": 660.0,
+                                "description": "BKOFAMERICA ATM 03/21 #000005782 DEPOSIT WEST COVINA WEST COVINA CA"
+                            },
+                            {
+                                "date": "03/22/24",
+                                "page": 4,
+                                "tags": [
+                                    "unknown"
+                                ],
+                                "amount": 250.0,
+                                "description": "RAMIREZ ENTERPRI DES:DEPOSIT ID:DP86939910 INDN:DNASTUDIOSCORP CO ID:BIZEDP CCD PMT INFO:MIGUEL SANCHEZ. MAR 11 - 17"
+                            },
+                            {
+                                "date": "03/22/24",
+                                "page": 4,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 186.56,
+                                "description": "Square Inc DES:240322P2 ID:L21373797329 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD"
+                            },
+                            {
+                                "date": "03/25/24",
+                                "page": 4,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 1477.88,
+                                "description": "Square Inc DES:240325P2 ID:L21373958330 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD"
+                            },
+                            {
+                                "date": "03/25/24",
+                                "page": 4,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 140.41,
+                                "description": "Square Inc DES:240325P2 ID:L21373958329 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD"
+                            },
+                            {
+                                "date": "03/26/24",
+                                "page": 4,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 575.42,
+                                "description": "Square Inc DES:240326P2 ID:L21374187240 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD"
+                            },
+                            {
+                                "date": "03/27/24",
+                                "page": 4,
+                                "tags": [
+                                    "atm"
+                                ],
+                                "amount": 2740.0,
+                                "description": "BKOFAMERICA ATM 03/26 #000007118 DEPOSIT WEST COVINA WEST COVINA CA"
+                            },
+                            {
+                                "date": "03/27/24",
+                                "page": 4,
+                                "tags": [
+                                    "atm"
+                                ],
+                                "amount": 243.0,
+                                "description": "BKOFAMERICA ATM 03/26 #000007121 DEPOSIT WEST COVINA WEST COVINA CA"
+                            },
+                            {
+                                "date": "03/27/24",
+                                "page": 5,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 141.84,
+                                "description": "Square Inc DES:240327P2 ID:L21374287316 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD"
+                            },
+                            {
+                                "date": "03/28/24",
+                                "page": 5,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 93.26,
+                                "description": "Square Inc DES:240328P2 ID:L21374393030 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD"
+                            },
+                            {
+                                "date": "03/29/24",
+                                "page": 5,
+                                "tags": [
+                                    "merchant_service_transfer"
+                                ],
+                                "amount": 238.95,
+                                "description": "Square Inc DES:240329P2 ID:L21374493043 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD"
+                            },
+                            {
+                                "date": "03/29/24",
+                                "page": 5,
+                                "tags": [
+                                    "unknown"
+                                ],
+                                "amount": 213.0,
+                                "description": "RAMIREZ ENTERPRI DES:DEPOSIT ID:DP87413444 INDN:DNASTUDIOSCORP CO ID:BIZEDP CCD PMT INFO:MIGUEL SANCHEZ PAY. MAR 18-24"
+                            },
+                            {
+                                "date": "03/29/24",
+                                "page": 5,
+                                "tags": [
+                                    "venmo_zelle_cashapp",
+                                    "revenue_deduction"
+                                ],
+                                "amount": 76.0,
+                                "description": "Zelle payment from BERENICE GAMONRIVERA Conf# TOS43QH3X"
+                            },
+                            {
+                                "date": "03/01/24",
+                                "page": 5,
+                                "tags": [],
+                                "amount": -850.0,
+                                "description": "Zelle payment to Berenice Gamon for \"19-25 Feb PH\"; Conf# mmxgla00i"
+                            },
+                            {
+                                "date": "03/01/24",
+                                "page": 5,
+                                "tags": [],
+                                "amount": -250.0,
+                                "description": "Zelle payment to Francisco Jara Pancho Villas for \"19-25 Feb Pvs Prime Photography Services\"; Conf# qy7b6hk7f"
+                            },
+                            {
+                                "date": "03/01/24",
+                                "page": 5,
+                                "tags": [],
+                                "amount": -40.0,
+                                "description": "Zelle payment to Yesenia Perez Photo for \"19-25 Feb PH\"; Conf# rggbwe0x2"
+                            },
+                            {
+                                "date": "03/01/24",
+                                "page": 5,
+                                "tags": [],
+                                "amount": -75.0,
+                                "description": "Zelle payment to Valentina Garcia Photo for \"19-25 Feb PH\"; Conf# jsc667soz"
+                            },
+                            {
+                                "date": "03/01/24",
+                                "page": 5,
+                                "tags": [],
+                                "amount": -792.5,
+                                "description": "Zelle payment to IRMA RETAMAL GAJARDO for \"19-25 Feb PH\"; Conf# nsyyadjzz"
+                            },
+                            {
+                                "date": "03/01/24",
+                                "page": 5,
+                                "tags": [],
+                                "amount": -90.0,
+                                "description": "Zelle payment to Claudia Zuniga for \"19-25 Feb PH\"; Conf# qa1t2lydp"
+                            },
+                            {
+                                "date": "03/01/24",
+                                "page": 5,
+                                "tags": [],
+                                "amount": -150.0,
+                                "description": "Zelle payment to Miguel Angel Sanchez Hernandez Conf# pmj35m5yd"
+                            },
+                            {
+                                "date": "03/01/24",
+                                "page": 5,
+                                "tags": [],
+                                "amount": -60.0,
+                                "description": "Zelle payment to Miguel Angel Sanchez Hernandez Conf# n58ddth18"
+                            },
+                            {
+                                "date": "03/01/24",
+                                "page": 5,
+                                "tags": [],
+                                "amount": -300.0,
+                                "description": "Zelle payment to Miguel Angel Sanchez Hernandez Conf# j1tymsau4"
+                            },
+                            {
+                                "date": "03/01/24",
+                                "page": 5,
+                                "tags": [],
+                                "amount": -341.72,
+                                "description": "Online Banking payment to CRD 0922 Confirmation# 2631906866"
+                            },
+                            {
+                                "date": "03/01/24",
+                                "page": 5,
+                                "tags": [],
+                                "amount": -599.6,
+                                "description": "Topline Pro LLC DES:DESIGN\\&ANI ID: INDN:designanimationstudios CO ID:XXXXXXXXX CCD"
+                            },
+                            {
+                                "date": "03/01/24",
+                                "page": 5,
+                                "tags": [],
+                                "amount": -481.53,
+                                "description": "APPLECARD GSBANK DES:PAYMENT ID:XXXXXXXXX INDN:Miguel Sanchez Hernand CO ID:9999999999 WEB"
+                            },
+                            {
+                                "date": "03/01/24",
+                                "page": 5,
+                                "tags": [],
+                                "amount": -109.0,
+                                "description": "EXPANSIONCAPITAL DES:PMTS ID:4592631 INDN:DESIGN AND ANIMATION S CO ID:1474194256 CCD"
+                            },
+                            {
+                                "date": "03/04/24",
+                                "page": 5,
+                                "tags": [],
+                                "amount": -100.0,
+                                "description": "Zelle payment to Jose Andres Photo for \"Birthday Bowling\"; Conf# p4jvmwydj"
+                            },
+                            {
+                                "date": "03/04/24",
+                                "page": 5,
+                                "tags": [],
+                                "amount": -599.6,
+                                "description": "Topline Pro LLC DES:DESIGN\\&ANI ID: INDN:designanimationstudios CO ID:XXXXXXXXX CCD"
+                            },
+                            {
+                                "date": "03/04/24",
+                                "page": 5,
+                                "tags": [],
+                                "amount": -300.0,
+                                "description": "Coinbase.com DES:4GAMYRES ID:4GAMYRES597a INDN:Miguel Sanchezhernande CO ID:1455293997 WEB"
+                            },
+                            {
+                                "date": "03/04/24",
+                                "page": 5,
+                                "tags": [],
+                                "amount": -109.0,
+                                "description": "EXPANSIONCAPITAL DES:PMTS ID:4594196 INDN:DESIGN AND ANIMATION S CO ID:1474194256 CCD"
+                            },
+                            {
+                                "date": "03/04/24",
+                                "page": 5,
+                                "tags": [],
+                                "amount": -69.0,
+                                "description": "BEST BUY DES:PAYMENT ID:611317484102891 INDN:MIGUEL SANCHEZ CO ID:CITICTP WEB"
+                            },
+                            {
+                                "date": "03/05/24",
+                                "page": 5,
+                                "tags": [],
+                                "amount": -200.0,
+                                "description": "Zelle payment to Victor Soccer Conf# qdqy95m8h"
+                            },
+                            {
+                                "date": "03/05/24",
+                                "page": 5,
+                                "tags": [],
+                                "amount": -400.0,
+                                "description": "Zelle payment to Miguel Angel Sanchez Hernandez Conf# mu6dq1wuo"
+                            },
+                            {
+                                "date": "03/05/24",
+                                "page": 5,
+                                "tags": [],
+                                "amount": -599.6,
+                                "description": "Topline Pro LLC DES:DESIGN\\&ANI ID: INDN:designanimationstudios CO ID:XXXXXXXXX CCD"
+                            },
+                            {
+                                "date": "03/05/24",
+                                "page": 5,
+                                "tags": [],
+                                "amount": -109.0,
+                                "description": "EXPANSIONCAPITAL DES:PMTS ID:4595941 INDN:DESIGN AND ANIMATION S CO ID:1474194256 CCD"
+                            },
+                            {
+                                "date": "03/06/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -13191.2,
+                                "description": "WIRE TYPE:WIRE OUT DATE:240306 TIME:1547 ET TRN:2024030600460967 SERVICE REF:014618 BNF:TOPLINE PRO LLC ID:4429906188 BNF BK:TD BANK, NA ID:031201360 PMT DET:481278606 ZERO BALANCE TOP LINE LLC"
+                            },
+                            {
+                                "date": "03/06/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -1437.5,
+                                "description": "Zelle payment to IRMA RETAMAL GAJARDO for '26 FEB - 3 MARCH PH'; Conf# kpiao61II"
+                            },
+                            {
+                                "date": "03/06/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -350.0,
+                                "description": "Zelle payment to Miguel Angel Sanchez Hernandez Conf# m1iqqvcse"
+                            },
+                            {
+                                "date": "03/06/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -599.6,
+                                "description": "Topline Pro LLC DES:DESIGN\\&ANI ID: INDN:designanimationstudios CO ID:XXXXXXXXX CCD"
+                            },
+                            {
+                                "date": "03/06/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -374.36,
+                                "description": "ONDECK CAPITAL16 DES:00022887 ID:74615220 INDN:DESIGN & ANIMATION STU CO ID:1882653807 CCD"
+                            },
+                            {
+                                "date": "03/06/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -109.0,
+                                "description": "EXPANSIONCAPITAL DES:PMTS ID:4597241 INDN:DESIGN AND ANIMATION S CO ID:1474194256 CCD"
+                            },
+                            {
+                                "date": "03/07/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -599.6,
+                                "description": "Topline Pro LLC DES:DESIGN\\&ANI ID: INDN:designanimationstudios CO ID:XXXXXXXXX CCD"
+                            },
+                            {
+                                "date": "03/07/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -109.0,
+                                "description": "EXPANSIONCAPITAL DES:PMTS ID:4598423 INDN:DESIGN AND ANIMATION S CO ID:1474194256 CCD"
+                            },
+                            {
+                                "date": "03/08/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -52.5,
+                                "description": "Zelle payment to Claudia Zuniga for '26 Feb - 3 Mar PH'; Conf# otqwbv7mp"
+                            },
+                            {
+                                "date": "03/08/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -187.5,
+                                "description": "Zelle payment to Yesenia Perez Photo for '26 Feb - 3 Mar PH'; Conf# kpqchypg8"
+                            },
+                            {
+                                "date": "03/08/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -250.0,
+                                "description": "Zelle payment to Francisco Jara Pancho Villas for 'PVS Prime Photography Services 26 Feb - 3 Mar'; Conf# nw8qwmoi7"
+                            },
+                            {
+                                "date": "03/08/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -320.0,
+                                "description": "Zelle payment to Berenice Gamon for '26 Feb - 3 Mar PH'; Conf# p3xj4zocz"
+                            },
+                            {
+                                "date": "03/08/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -109.0,
+                                "description": "EXPANSIONCAPITAL DES:PMTS ID:4599733 INDN:DESIGN AND ANIMATION S CO ID:1474194256 CCD"
+                            },
+                            {
+                                "date": "03/11/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -109.0,
+                                "description": "EXPANSIONCAPITAL DES:PMTS ID:4601984 INDN:DESIGN AND ANIMATION S CO ID:1474194256 CCD"
+                            },
+                            {
+                                "date": "03/12/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -300.0,
+                                "description": "Zelle payment to Miguel Angel Sanchez Hernandez Conf# jiyw8dfsj"
+                            },
+                            {
+                                "date": "03/12/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -109.0,
+                                "description": "EXPANSIONCAPITAL DES:PMTS ID:4603015 INDN:DESIGN AND ANIMATION S CO ID:1474194256 CCD"
+                            },
+                            {
+                                "date": "03/12/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -54.4,
+                                "description": "CAPITAL ONE DES:MOBILE PMT ID:3X41Q28YRIFTOOS INDN:MIGUEL A SANCHEZ HERNA CO ID:9279744380 CCD"
+                            },
+                            {
+                                "date": "03/13/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -374.36,
+                                "description": "ONDECK CAPITAL16 DES:00023039 ID:74794464 INDN:DESIGN & ANIMATION STU CO ID:1882653807 CCD"
+                            },
+                            {
+                                "date": "03/13/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -214.68,
+                                "description": "AMAZON CORP DES:SYF PAYMNT ID:604578113030635 INDN:SANCHEZ HERNANDEZM CO ID:9069872103 WEB"
+                            },
+                            {
+                                "date": "03/13/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -109.0,
+                                "description": "EXPANSIONCAPITAL DES:PMTS ID:4604316 INDN:DESIGN AND ANIMATION S CO ID:1474194256 CCD"
+                            },
+                            {
+                                "date": "03/13/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -34.86,
+                                "description": "Synchrony Bank DES:CC PYMT ID:504662202103616 INDN:MIGUEL SANCHEZ CO ID:9856794001 WEB"
+                            },
+                            {
+                                "date": "03/14/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -300.0,
+                                "description": "ATM Deposit on 03/07/2024 totaling 715.00 had a"
+                            },
+                            {
+                                "date": "03/14/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -100.0,
+                                "description": "Zelle payment to Miguel Angel Sanchez Hernandez Conf# rs74zpv10"
+                            },
+                            {
+                                "date": "03/14/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -109.0,
+                                "description": "EXPANSIONCAPITAL DES:PMTS ID:4605502 INDN:DESIGN AND ANIMATION S CO ID:1474194256 CCD"
+                            },
+                            {
+                                "date": "03/15/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -42.5,
+                                "description": "Zelle payment to Yesenia Perez Photo for '4-10 March PH'; Conf# pufn2x3j0"
+                            },
+                            {
+                                "date": "03/15/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -1252.5,
+                                "description": "Zelle payment to IRMA RETAMAL GAJARDO for '4-10 MARCH PH'; Conf# mhiltnnnf"
+                            },
+                            {
+                                "date": "03/15/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -525.0,
+                                "description": "Zelle payment to Berenice Gamon for '4-10 MARCH PH'; Conf# pt510souf"
+                            },
+                            {
+                                "date": "03/15/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -109.0,
+                                "description": "EXPANSIONCAPITAL DES:PMTS ID:4606810 INDN:DESIGN AND ANIMATION S CO ID:1474194256 CCD"
+                            },
+                            {
+                                "date": "03/18/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -250.0,
+                                "description": "Zelle payment to CAPITAL FINANCIAL SERVICES LLC for 'Half Payment S Corp taxes'; Conf# jt476v9ey"
+                            },
+                            {
+                                "date": "03/18/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -124.0,
+                                "description": "Zelle payment to Dani Panini for 'Coleccion Panini Blanca'; Conf# jpl9qii30"
+                            },
+                            {
+                                "date": "03/18/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -100.0,
+                                "description": "Zelle payment to Dani Panini for 'Cajas LATAM'; Conf# qep6w8nox"
+                            },
+                            {
+                                "date": "03/18/24",
+                                "page": 6,
+                                "tags": [],
+                                "amount": -150.0,
+                                "description": "Zelle payment to MERCEDES VELASQUEZ Conf# kq6qta8vc"
+                            },
+                            {
+                                "date": "03/18/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -109.0,
+                                "description": "EXPANSIONCAPITAL DES:PMTS ID:4608332 INDN:DESIGN AND ANIMATION S CO ID:1474194256 CCD"
+                            },
+                            {
+                                "date": "03/19/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -2600.0,
+                                "description": "Zelle payment to Armando Paredes for 'Agua Luz Fernando y Jose'; Conf# jxktofo6m"
+                            },
+                            {
+                                "date": "03/19/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -393.01,
+                                "description": "Zelle payment to Miguel Angel Sanchez Hernandez Conf# pmo21nbh7"
+                            },
+                            {
+                                "date": "03/19/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -102.0,
+                                "description": "Zelle payment to Miguel Angel Sanchez Hernandez Conf# qju8v78y3"
+                            },
+                            {
+                                "date": "03/19/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -375.0,
+                                "description": "Zelle payment to CAPITAL FINANCIAL SERVICES LLC for 'Balance of 250 for corp taxes and personal taxe'; Conf# ovv6cudy0"
+                            },
+                            {
+                                "date": "03/19/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -109.0,
+                                "description": "EXPANSIONCAPITAL DES:PMTS ID:4610077 INDN:DESIGN AND ANIMATION S CO ID:1474194256 CCD"
+                            },
+                            {
+                                "date": "03/20/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -7200.0,
+                                "description": "Zelle payment to Armando Paredes Conf# lb559uuq2"
+                            },
+                            {
+                                "date": "03/20/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -2197.31,
+                                "description": "AUDI FINCL, TEL. DES:WEB DEBIT ID: PWBS8146702572 INDN:Design & Animation Stu CO ID:1382362409 WEB"
+                            },
+                            {
+                                "date": "03/20/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -707.46,
+                                "description": "APPLECARD GSBANK DES:PAYMENT ID:XXXXXXXXX INDN:Miguel Sanchez Hernand CO ID:9999999999 WEB"
+                            },
+                            {
+                                "date": "03/20/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -374.36,
+                                "description": "ONDECK CAPITAL16 DES:00023193 ID:74975156 INDN:DESIGN & ANIMATION STU CO ID:1882653807 CCD"
+                            },
+                            {
+                                "date": "03/21/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -1016.41,
+                                "description": "AMAZON CORP DES:SYF PAYMNT ID:604578113030635 INDN:SANCHEZ HERNANDEZM CO ID:9069872103 WEB"
+                            },
+                            {
+                                "date": "03/21/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -371.81,
+                                "description": "TARGET CARD SRVC DES:BILL PAY ID:000000006238123 INDN:0M SANCHEZ HERNANDEZ M CO ID:TXXXXXXXXX WEB"
+                            },
+                            {
+                                "date": "03/21/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -240.55,
+                                "description": "UPGRADE, INC. DES:PAYMENT ID:56315070 INDN:MIGUEL A SANCHEZ HERNA CO ID:2812807376 WEB"
+                            },
+                            {
+                                "date": "03/21/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -181.0,
+                                "description": "EXPANSIONCAPITAL DES:PMTS ID:4613362 INDN:DESIGN AND ANIMATION S CO ID:1474194256 CCD"
+                            },
+                            {
+                                "date": "03/22/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -1692.5,
+                                "description": "Zelle payment to IRMA RETAMAL GAJARDO for '11-17 March PH'; Conf# qfwmo7g2q"
+                            },
+                            {
+                                "date": "03/22/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -940.0,
+                                "description": "Zelle payment to Berenice Gamon for '11-17 MARCH PH'; Conf# l7dhgar49"
+                            },
+                            {
+                                "date": "03/22/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -1.0,
+                                "description": "Zelle payment to MELANY ALARCON RAMIREZ for 'Test'; Conf# oozpvaeqv"
+                            },
+                            {
+                                "date": "03/22/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -299.0,
+                                "description": "Zelle payment to MELANY ALARCON RAMIREZ for '11-17 MARCH PH'; Conf# nyg3exspz"
+                            },
+                            {
+                                "date": "03/22/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -85.0,
+                                "description": "Zelle payment to Valentina Garcia Photo for '11-17 MARCH PH'; Conf# li5tuh2kb"
+                            },
+                            {
+                                "date": "03/22/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -250.0,
+                                "description": "Zelle payment to Francisco Jara Pancho Villas for '11-17 MARCH PVS PRIME PHOTOGRAPHY SERVICES'; Conf# p1ai0s1zh"
+                            },
+                            {
+                                "date": "03/22/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -181.0,
+                                "description": "EXPANSIONCAPITAL DES:PMTS ID:4614783 INDN:DESIGN AND ANIMATION S CO ID:1474194256 CCD"
+                            },
+                            {
+                                "date": "03/25/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -100.0,
+                                "description": "Zelle payment to Miguel Angel Sanchez Hernandez Conf# j7fria7lh"
+                            },
+                            {
+                                "date": "03/25/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -1485.0,
+                                "description": "AMAZON CORP DES:SYF PAYMNT ID:604578113030635 INDN:SANCHEZ HERNANDEZM CO ID:9069872103 WEB"
+                            },
+                            {
+                                "date": "03/25/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -1036.17,
+                                "description": "CAPITAL ONE DES:MOBILE PMT ID:3X6JDXRK54T9ERD INDN:MIGUEL A SANCHEZ HERNA CO ID:9279744380 CCD"
+                            },
+                            {
+                                "date": "03/25/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -287.66,
+                                "description": "CAPITAL ONE DES:MOBILE PMT ID:3X6JDZU51JUXTJ9 INDN:MIGUEL A SANCHEZ HERNA CO ID:9279744380 CCD"
+                            },
+                            {
+                                "date": "03/25/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -255.94,
+                                "description": "FDM001 DES:DEBIT ID:C24032222001224 INDN:Design Animation Stud CO ID:9000035002 CCD"
+                            },
+                            {
+                                "date": "03/25/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -181.0,
+                                "description": "EXPANSIONCAPITAL DES:PMTS ID:4616639 INDN:DESIGN AND ANIMATION S CO ID:1474194256 CCD"
+                            },
+                            {
+                                "date": "03/26/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -1000.0,
+                                "description": "Zelle payment to Miguel Angel Sanchez Hernandez Conf# rzjwqbxqn"
+                            },
+                            {
+                                "date": "03/26/24",
+                                "page": 7,
+                                "tags": [],
+                                "amount": -1063.41,
+                                "description": "Zelle payment to Miguel Angel Sanchez Hernandez Conf# r8ij2eqcd"
+                            },
+                            {
+                                "date": "03/26/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -1079.97,
+                                "description": "Online Banking payment to CRD 0922 Confirmation# 3747904562"
+                            },
+                            {
+                                "date": "03/26/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -255.94,
+                                "description": "FDM001 DES:DEBIT ID:C24032519003219 INDN:Design Animation Stud CO ID:9000035002 CCD"
+                            },
+                            {
+                                "date": "03/26/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -181.0,
+                                "description": "EXPANSIONCAPITAL DES:PMTS ID:4617882 INDN:DESIGN AND ANIMATION S CO ID:1474194256 CCD"
+                            },
+                            {
+                                "date": "03/27/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -84.0,
+                                "description": "Zelle payment to Miguel Angel Sanchez Hernandez Conf# qm8wrkuhu"
+                            },
+                            {
+                                "date": "03/27/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -397.37,
+                                "description": "MACYS DES:ONLINE PMT ID:621338833158543 INDN:MIGUEL SANCHEZHERNANDE CO ID:CITICTP WEB"
+                            },
+                            {
+                                "date": "03/27/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -374.36,
+                                "description": "ONDECK CAPITAL16 DES:00023345 ID:75159287 INDN:DESIGN & ANIMATION STU CO ID:1882653807 CCD"
+                            },
+                            {
+                                "date": "03/27/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -255.94,
+                                "description": "FDM001 DES:DEBIT ID:C24032618002708 INDN:Design Animation Stud CO ID:9000035002 CCD"
+                            },
+                            {
+                                "date": "03/27/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -181.0,
+                                "description": "EXPANSIONCAPITAL DES:PMTS ID:4619008 INDN:DESIGN AND ANIMATION S CO ID:1474194256 CCD"
+                            },
+                            {
+                                "date": "03/28/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -255.94,
+                                "description": "FDM001 DES:DEBIT ID:C24032715003309 INDN:Design Animation Stud CO ID:9000035002 CCD"
+                            },
+                            {
+                                "date": "03/28/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -181.0,
+                                "description": "EXPANSIONCAPITAL DES:PMTS ID:4620186 INDN:DESIGN AND ANIMATION S CO ID:1474194256 CCD"
+                            },
+                            {
+                                "date": "03/28/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -100.0,
+                                "description": "Synchrony Bank DES:CC PYMT ID:504662202103616 INDN:MIGUEL SANCHEZ CO ID:9856794001 WEB"
+                            },
+                            {
+                                "date": "03/29/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -1260.0,
+                                "description": "Zelle payment to IRMA RETAMAL GAJARDO for \"18-24 March PH\"; Conf# m7lvadmv1"
+                            },
+                            {
+                                "date": "03/29/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -1147.5,
+                                "description": "Zelle payment to Berenice Gamon for \"18-24 March PH\"; Conf# kx2g18l2g"
+                            },
+                            {
+                                "date": "03/29/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -250.0,
+                                "description": "Zelle payment to Francisco Jara Pancho Villas for \"18-24 March Pvs Prime Photography Services\"; Conf# rw0ncspr0"
+                            },
+                            {
+                                "date": "03/29/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -57.5,
+                                "description": "Zelle payment to MELANY ALARCON RAMIREZ for \"18-24 March PH\"; Conf# q019byd9z"
+                            },
+                            {
+                                "date": "03/29/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -50.0,
+                                "description": "Zelle payment to Angy photo for \"18-24 March PH\"; Conf# nyh4ffa9v"
+                            },
+                            {
+                                "date": "03/29/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -255.94,
+                                "description": "FDM001 DES:DEBIT ID:C24032818007258 INDN:Design Animation Stud CO ID:9000035002 CCD"
+                            },
+                            {
+                                "date": "03/29/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -181.0,
+                                "description": "EXPANSIONCAPITAL DES:PMTS ID:4621563 INDN:DESIGN AND ANIMATION S CO ID:1474194256 CCD"
+                            },
+                            {
+                                "date": "03/01/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -10.0,
+                                "description": "CHECKCARD 0228 SELF PARKING - DTD ANAHEIM CA 24943004060894060004095 CKCD 7523 XXXXXXXXXXXX7106 XXXX XXXX XXXX 7106"
+                            },
+                            {
+                                "date": "03/06/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -139.97,
+                                "description": "PURCHASE 0304 PAYPAL *ENJOYBEVTCY 4029357733"
+                            },
+                            {
+                                "date": "03/07/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -110.31,
+                                "description": "CHECKCARD 0306 CHEVRON 0206217 POMONA CA 24692164066101959595137 CKCD 5542 XXXXXXXXXXXX7106 XXXX XXXX XXXX 7106"
+                            },
+                            {
+                                "date": "03/08/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -17.78,
+                                "description": "CHECKCARD 0306 IN-N-OUT HESPERIA HESPERIA CA 24692164067102619647580 CKCD 5814 XXXXXXXXXXXX7106 XXXX XXXX XXXX 7106"
+                            },
+                            {
+                                "date": "03/11/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -267.59,
+                                "description": "CHECKCARD 0308 SAMS CLUB #6240 909-394-4556 CA 24445004069400214920188 CKCD 5300 XXXXXXXXXXXX7106 XXXX XXXX XXXX 7106"
+                            },
+                            {
+                                "date": "03/11/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -109.88,
+                                "description": "SHELL SERVICE 03/11 #000050397 PURCHASE SHELL SERVICE STA POMONA CA"
+                            },
+                            {
+                                "date": "03/15/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -92.27,
+                                "description": "CHECKCARD 0315 V-RED POMONA POMONA CA CKCD 5542 XXXXXXXXXXXX7106 XXXX XXXX XXXX 7106"
+                            },
+                            {
+                                "date": "03/21/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -339.64,
+                                "description": "CHECKCARD 0320 PNM * Oportun Inc. Santa Clara CA 24388864080013973517284 CKCD 6051 XXXXXXXXXXXX7106 XXXX XXXX XXXX 7106"
+                            },
+                            {
+                                "date": "03/22/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -23.94,
+                                "description": "CHESTER'S 03/22 #000028965 PURCHASE CHESTER'S MONTCLAIR CA"
+                            },
+                            {
+                                "date": "03/25/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -29.0,
+                                "description": "PURCHASE 0323 SQUARESPACE 120604974 HTTPSSQUARESPNY"
+                            },
+                            {
+                                "date": "03/25/24",
+                                "page": 8,
+                                "tags": [],
+                                "amount": -95.69,
+                                "description": "CHECKCARD 0323 FAMILY OIL WEST COVINA CA CKCD 5542 XXXXXXXXXXXX7106 XXXX XXXX XXXX 7106"
+                            },
+                            {
+                                "date": "03/27/24",
+                                "page": 9,
+                                "tags": [],
+                                "amount": -64.92,
+                                "description": "CHECKCARD 0325 DENTAL INSURANCE AUTOPA 877-2804204 CA"
+                            },
+                            {
+                                "date": "03/27/24",
+                                "page": 9,
+                                "tags": [],
+                                "amount": -11.99,
+                                "description": "CHECKCARD 0327 DROPBOX*VJLLDN3479BF DROPBOX.COM CA 24692164087108498006588"
+                            },
+                            {
+                                "date": "03/29/24",
+                                "page": 9,
+                                "tags": [],
+                                "amount": 0.0,
+                                "description": "BKOFAMERICA ATM 03/29 #000008325 WITHDRWL WEST COVINA"
+                            },
+                            {
+                                "date": "03/01/24",
+                                "page": 9,
+                                "tags": [],
+                                "amount": -16.5,
+                                "description": "Cash Deposit Processing"
+                            },
+                            {
+                                "date": "03/06/24",
+                                "page": 9,
+                                "tags": [],
+                                "amount": -30.0,
+                                "description": "Wire Transfer Fee"
+                            },
+                            {
+                                "date": "03/25/24",
+                                "page": 9,
+                                "tags": [],
+                                "amount": -15.0,
+                                "description": "Wire Transfer Fee"
+                            }
+                        ],
+                        "statement_period": "2024-03"
+                    }
+                ]
+            }
+        }
+    ],
+    "total_pages": 12,
+    "total_cost_in_usd": 0.0181391,
+    "usage_summary_ocr": 0.012,
+    "total_transactions": 167,
+    "usage_summary_parsing": {
+        "tagging_token_usage": {
+            "input_tokens": 1855,
+            "output_tokens": 686
+        },
+        "extraction_token_usage": {
+            "input_tokens": 15787,
+            "output_tokens": 13897
+        }
+    },
+    "classification_summary": {
+        "tag_distribution": {
+            "atm": 7,
+            "unknown": 5,
+            "transfer": 1,
+            "wire_transfer": 1,
+            "revenue_deduction": 6,
+            "venmo_zelle_cashapp": 6,
+            "merchant_service_transfer": 29
+        },
+        "classified_by_llm_count": 34,
+        "classified_by_rule_count": 14
+    }
+}
