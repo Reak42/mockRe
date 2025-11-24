@@ -1,0 +1,278 @@
+{
+    "accounts": [
+        {
+            "basic_info": {
+                "account_name": "BANK OF AMERICA",
+                "account_number": "0112",
+                "processing_time": 43.57
+            },
+            "bank_statement_facts": {
+                "statements": [
+                    {
+                        "statement_period": "2024-03",
+                        "transactions": [
+                            {
+                                "date": "03/01/2024",
+                                "description": "Deposits and other credits",
+                                "amount": 70310.35,
+                                "page": 1,
+                                "all_tags": [
+                                    "outside_source_deposits",
+                                    "ZELLE"
+                                ]
+                            },
+                            {
+                                "date": "03/01/24",
+                                "description": "RAMIREZ ENTERPRI DES:DEPOSIT ID:DP85498716 INDN:DNASTUDIOSCORP CO ID:BIZEDP CCD PMT INFO:MIGUEL SANCHEZ PAYMENT. FEB 19- 25",
+                                "amount": 346.0,
+                                "page": 3,
+                                "all_tags": [
+                                    "outside_source_deposits",
+                                    "RAMIREZ ENTERPRISES",
+                                    "DNASTUDIOSCORP"
+                                ]
+                            },
+                            {
+                                "date": "03/01/24",
+                                "description": "Zelle payment from NASER KHEIRABADI for \"For 1146 N D St pics\"; Conf# yskjtgs3k",
+                                "amount": 250.0,
+                                "page": 3,
+                                "all_tags": [
+                                    "outside_source_deposits",
+                                    "ZELLE",
+                                    "NASER KHEIRABADI"
+                                ]
+                            },
+                            {
+                                "date": "03/01/24",
+                                "description": "Square Inc DES:240301P2 ID:L21371844632 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD",
+                                "amount": 88.79,
+                                "page": 3,
+                                "all_tags": [
+                                    "merchant_service",
+                                    "SQUARE",
+                                    "MIGUEL ANGEL SANCHEZ H"
+                                ]
+                            },
+                            {
+                                "date": "03/04/24",
+                                "description": "Square Inc DES:240304P2 ID:L21372017454 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD",
+                                "amount": 808.47,
+                                "page": 3,
+                                "all_tags": [
+                                    "merchant_service",
+                                    "SQUARE",
+                                    "MIGUEL ANGEL SANCHEZ H"
+                                ]
+                            },
+                            {
+                                "date": "03/04/24",
+                                "description": "Square Inc DES:240304P2 ID:L21372017453 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD",
+                                "amount": 52.32,
+                                "page": 3,
+                                "all_tags": [
+                                    "merchant_service",
+                                    "SQUARE",
+                                    "MIGUEL ANGEL SANCHEZ H"
+                                ]
+                            },
+                            {
+                                "date": "03/05/24",
+                                "description": "BKOFAMERICA ATM 03/05 #000009722 DEPOSIT WEST COVINA WEST COVINA CA",
+                                "amount": 1180.0,
+                                "page": 3,
+                                "all_tags": [
+                                    "outside_source_deposits",
+                                    "BANK OF AMERICA",
+                                    "ATM"
+                                ]
+                            },
+                            {
+                                "date": "03/05/24",
+                                "description": "Square Inc DES:240305P2 ID:L21372134960 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD",
+                                "amount": 509.08,
+                                "page": 3,
+                                "all_tags": [
+                                    "merchant_service",
+                                    "SQUARE",
+                                    "MIGUEL ANGEL SANCHEZ H"
+                                ]
+                            },
+                            {
+                                "date": "03/06/24",
+                                "description": "Wire Transfer Fee",
+                                "amount": -30.0,
+                                "page": 9,
+                                "all_tags": [
+                                    "expense",
+                                    "Wire Transfer Fee"
+                                ]
+                            },
+                            {
+                                "date": "03/25/24",
+                                "description": "Wire Transfer Fee",
+                                "amount": -15.0,
+                                "page": 9,
+                                "all_tags": [
+                                    "expense",
+                                    "Wire Transfer Fee"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "statement_period": "2024-06",
+                        "transactions": [
+                            {
+                                "date": "06/03/24",
+                                "description": "Fratello Capital DES:DC ID: INDN:DESIGN & ANIMAT CO ID:1881146459 CCD",
+                                "amount": 2559.05,
+                                "page": 3,
+                                "all_tags": [
+                                    "Fratello Capital"
+                                ]
+                            },
+                            {
+                                "date": "06/03/24",
+                                "description": "BKOFAMERICA ATM 06/03 #000002577 DEPOSIT WEST COVINA WEST COVINA CA",
+                                "amount": 963.0,
+                                "page": 3,
+                                "all_tags": [
+                                    "outside_source_deposits",
+                                    "BKOFAMERICA ATM"
+                                ]
+                            },
+                            {
+                                "date": "06/03/24",
+                                "description": "Square Inc DES:240603P2 ID:L21380754864 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD",
+                                "amount": 667.56,
+                                "page": 3,
+                                "all_tags": [
+                                    "Square Inc"
+                                ]
+                            },
+                            {
+                                "date": "06/03/24",
+                                "description": "Cash Deposit Processing",
+                                "amount": -15.9,
+                                "page": 9,
+                                "all_tags": [
+                                    "expense",
+                                    "debit_card",
+                                    "CASH DEPOSIT"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "basic_info": {
+                "account_name": "BANGOR_SAVINGS_BANK",
+                "account_number": "7840",
+                "processing_time": 29.3
+            },
+            "bank_statement_facts": {
+                "statements": [
+                    {
+                        "statement_period": "2024-04",
+                        "transactions": [
+                            {
+                                "date": "04/01/2024",
+                                "description": "Non-BSB ATM fee rebate",
+                                "amount": 3.5,
+                                "page": 1,
+                                "all_tags": [
+                                    "revenue_deduction",
+                                    "Non-BSB ATM fee rebate"
+                                ]
+                            },
+                            {
+                                "date": "04/02/2024",
+                                "description": "EverTransi EverTransit LLC CCD",
+                                "amount": 39.21,
+                                "page": 1,
+                                "all_tags": [
+                                    "EverTransit LLC"
+                                ]
+                            },
+                            {
+                                "date": "04/02/2024",
+                                "description": "DEPOSIT INTUIT 78628305 CCD",
+                                "amount": 1134.0,
+                                "page": 1,
+                                "all_tags": [
+                                    "INTUIT"
+                                ]
+                            },
+                            {
+                                "date": "04/03/2024",
+                                "description": "Non-BSB ATM fee rebate",
+                                "amount": 3.5,
+                                "page": 1,
+                                "all_tags": [
+                                    "revenue_deduction",
+                                    "Non-BSB ATM fee rebate"
+                                ]
+                            },
+                            {
+                                "date": "4/03",
+                                "description": "EverTransi EverTransit LLC CCD",
+                                "amount": 515.18,
+                                "page": 2,
+                                "all_tags": [
+                                    "EverTransit LLC"
+                                ]
+                            },
+                            {
+                                "date": "4/03",
+                                "description": "CONS PAY WALDO COMMUNITY PPD",
+                                "amount": 17732.86,
+                                "page": 2,
+                                "all_tags": [
+                                    "WALDO COMMUNITY"
+                                ]
+                            },
+                            {
+                                "date": "04/10",
+                                "description": "Check No $174*",
+                                "amount": -825.0,
+                                "page": 9,
+                                "all_tags": [
+                                    "expense",
+                                    "checks"
+                                ]
+                            },
+                            {
+                                "date": "04/08",
+                                "description": "Check No 169",
+                                "amount": -500.0,
+                                "page": 9,
+                                "all_tags": [
+                                    "expense",
+                                    "checks"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "usage_summary_parsing": {
+        "extraction_token_usage": {
+            "input_tokens": 45644,
+            "output_tokens": 37776
+        },
+        "tagging_token_usage": {
+            "input_tokens": 32857,
+            "output_tokens": 20099
+        }
+    },
+    "usage_summary_ocr": 0.032,
+    "total_transactions": 486,
+    "total_pages": 32,
+    "total_cost_in_usd": 0.0572126,
+    "char_count": 95273
+}
