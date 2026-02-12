@@ -1,35 +1,64 @@
 {
-  "bank_statement_details": {
-    "account_number": "1234567890",
-    "statement_name": "jan_2025_statement.pdf",
-    "bank_name": "Chase",
-    "month": "January",
-    "year": "2025",
-    "bank_statement_id": 42,
-    "pdf_url": "https://s3.amazonaws.com/bucket/..."
-  },
-  "transactions": [
+  "queue": [
     {
-      "transaction_id": 101,
-      "transaction_date": "2025-01-05",
-      "description": "Direct Deposit - Payroll",
-      "credit": 3500.00,
-      "debit": null
+      "status": "PENDING",
+      "bank_statement_details": {
+        "account_number": "1234567890",
+        "statement_name": "jan_2025_statement.pdf",
+        "bank_name": "Chase",
+        "month": "January",
+        "year": "2025",
+        "bank_statement_id": 42,
+        "pdf_url": "https://s3.amazonaws.com/bucket/jan.pdf"
+      },
+      "transactions": [
+        {
+          "transaction_id": 101,
+          "transaction_date": "2025-01-05",
+          "description": "Direct Deposit - Payroll",
+          "credit": 3500.00,
+          "debit": null
+        }
+      ],
+      "source_metadata": {
+        "statement_debit_total": 1500.00,
+        "computed_debit_total": 1500.00,
+        "statement_credit_total": 3500.00,
+        "computed_credit_total": 3500.00,
+        "confidence_pct": 92.5
+      },
+      "expires_at": "2025-01-15T10:03:00-05:00"
     },
+
     {
-      "transaction_id": 102,
-      "transaction_date": "2025-01-10",
-      "description": "Electric Bill Payment",
-      "credit": null,
-      "debit": 150.75
+      "status": "PENDING",
+      "bank_statement_details": {
+        "account_number": "9876543210",
+        "statement_name": "feb_2025_statement.pdf",
+        "bank_name": "Bank of America",
+        "month": "February",
+        "year": "2025",
+        "bank_statement_id": 43,
+        "pdf_url": "https://s3.amazonaws.com/bucket/feb.pdf"
+      },
+      "transactions": [
+        {
+          "transaction_id": 201,
+          "transaction_date": "2025-02-03",
+          "description": "Stripe Payout",
+          "credit": 4200.00,
+          "debit": null
+        }
+      ],
+      "source_metadata": {
+        "statement_debit_total": 900.00,
+        "computed_debit_total": 900.00,
+        "statement_credit_total": 4200.00,
+        "computed_credit_total": 4200.00,
+        "confidence_pct": 88.0
+      },
+      "expires_at": "2025-02-10T10:03:00-05:00"
     }
-  ],
-  "source_metadata": {
-    "statement_debit_total": 1500.00,
-    "computed_debit_total": 1500.00,
-    "statement_credit_total": 3500.00,
-    "computed_credit_total": 3500.00,
-    "confidence_pct": 92.5
-  },
-  "expires_at": "2025-01-15T10:03:00-05:00"
+  ]
 }
+
