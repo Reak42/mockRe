@@ -2,277 +2,2160 @@
     "accounts": [
         {
             "basic_info": {
-                "account_name": "BANK OF AMERICA",
-                "account_number": "0112",
-                "processing_time": 43.57
+                "account_number": "9705",
+                "account_name": "CHASE"
             },
             "bank_statement_facts": {
                 "statements": [
                     {
-                        "statement_period": "2024-03",
+                        "bank_statement_id": 7837,
+                        "failed_pages": [],
                         "transactions": [
                             {
-                                "date": "03/01/2024",
-                                "description": "Deposits and other credits",
-                                "amount": 70310.35,
-                                "page": 1,
-                                "all_tags": [
-                                    "outside_source_deposits",
-                                    "ZELLE"
-                                ]
+                                "transaction_id": 1102864,
+                                "date": "2026-03-02",
+                                "description": "Zelle Payment To Alejandra",
+                                "amount": null,
+                                "debit": 5.0,
+                                "tags": [],
+                                "revenue": null
                             },
                             {
-                                "date": "03/01/24",
-                                "description": "RAMIREZ ENTERPRI DES:DEPOSIT ID:DP85498716 INDN:DNASTUDIOSCORP CO ID:BIZEDP CCD PMT INFO:MIGUEL SANCHEZ PAYMENT. FEB 19- 25",
-                                "amount": 346.0,
-                                "page": 3,
-                                "all_tags": [
-                                    "outside_source_deposits",
-                                    "RAMIREZ ENTERPRISES",
-                                    "DNASTUDIOSCORP"
-                                ]
+                                "transaction_id": 1102865,
+                                "date": "2026-03-02",
+                                "description": "Zelle Payment To Alejandra",
+                                "amount": null,
+                                "debit": 945.0,
+                                "tags": [],
+                                "revenue": null
                             },
                             {
-                                "date": "03/01/24",
-                                "description": "Zelle payment from NASER KHEIRABADI for \"For 1146 N D St pics\"; Conf# yskjtgs3k",
-                                "amount": 250.0,
-                                "page": 3,
-                                "all_tags": [
-                                    "outside_source_deposits",
-                                    "ZELLE",
-                                    "NASER KHEIRABADI"
-                                ]
+                                "transaction_id": 1102866,
+                                "date": "2026-03-02",
+                                "description": "Orig CO Name:American Express",
+                                "amount": null,
+                                "debit": 422.92,
+                                "tags": [],
+                                "revenue": null
                             },
                             {
-                                "date": "03/01/24",
-                                "description": "Square Inc DES:240301P2 ID:L21371844632 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD",
-                                "amount": 88.79,
-                                "page": 3,
-                                "all_tags": [
-                                    "merchant_service",
-                                    "SQUARE",
-                                    "MIGUEL ANGEL SANCHEZ H"
-                                ]
+                                "transaction_id": 1102867,
+                                "date": "2026-03-02",
+                                "description": "Orig CO Name:American Express",
+                                "amount": null,
+                                "debit": 944.0,
+                                "tags": [],
+                                "revenue": null
                             },
                             {
-                                "date": "03/04/24",
-                                "description": "Square Inc DES:240304P2 ID:L21372017454 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD",
-                                "amount": 808.47,
-                                "page": 3,
-                                "all_tags": [
-                                    "merchant_service",
-                                    "SQUARE",
-                                    "MIGUEL ANGEL SANCHEZ H"
-                                ]
+                                "transaction_id": 1102868,
+                                "date": "2026-03-02",
+                                "description": "Recurring Card Purchase 03/01 Trthfdr*Truthfinder.CO",
+                                "amount": null,
+                                "debit": 31.11,
+                                "tags": [],
+                                "revenue": null
                             },
                             {
-                                "date": "03/04/24",
-                                "description": "Square Inc DES:240304P2 ID:L21372017453 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD",
-                                "amount": 52.32,
-                                "page": 3,
-                                "all_tags": [
-                                    "merchant_service",
-                                    "SQUARE",
-                                    "MIGUEL ANGEL SANCHEZ H"
-                                ]
+                                "transaction_id": 1102869,
+                                "date": "2026-03-03",
+                                "description": "Orig CO Name:Red Stag Servici",
+                                "amount": null,
+                                "debit": 25312.5,
+                                "tags": [],
+                                "revenue": null
                             },
                             {
-                                "date": "03/05/24",
-                                "description": "BKOFAMERICA ATM 03/05 #000009722 DEPOSIT WEST COVINA WEST COVINA CA",
-                                "amount": 1180.0,
-                                "page": 3,
-                                "all_tags": [
-                                    "outside_source_deposits",
-                                    "BANK OF AMERICA",
-                                    "ATM"
-                                ]
+                                "transaction_id": 1102881,
+                                "date": "2026-03-09",
+                                "description": "Real Time Payment Credit Recd From Aba/Contr Bnk",
+                                "amount": 3000.0,
+                                "debit": null,
+                                "tags": [],
+                                "revenue": null
                             },
                             {
-                                "date": "03/05/24",
-                                "description": "Square Inc DES:240305P2 ID:L21372134960 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD",
-                                "amount": 509.08,
-                                "page": 3,
-                                "all_tags": [
-                                    "merchant_service",
-                                    "SQUARE",
-                                    "MIGUEL ANGEL SANCHEZ H"
-                                ]
+                                "transaction_id": 1102905,
+                                "date": "2026-03-19",
+                                "description": "Orig CO Name:Cascade Natural",
+                                "amount": null,
+                                "debit": 9.26,
+                                "tags": [],
+                                "revenue": null
                             },
                             {
-                                "date": "03/06/24",
-                                "description": "Wire Transfer Fee",
-                                "amount": -30.0,
-                                "page": 9,
-                                "all_tags": [
-                                    "expense",
-                                    "Wire Transfer Fee"
-                                ]
+                                "transaction_id": 1102906,
+                                "date": "2026-03-19",
+                                "description": "Orig CO Name:Cascade Natural",
+                                "amount": null,
+                                "debit": 7.56,
+                                "tags": [],
+                                "revenue": null
                             },
                             {
-                                "date": "03/25/24",
-                                "description": "Wire Transfer Fee",
-                                "amount": -15.0,
-                                "page": 9,
-                                "all_tags": [
-                                    "expense",
-                                    "Wire Transfer Fee"
-                                ]
+                                "transaction_id": 1102910,
+                                "date": "2026-03-24",
+                                "description": "Orig CO Name:Kiewit Finance G",
+                                "amount": 51100.0,
+                                "debit": null,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102911,
+                                "date": "2026-03-30",
+                                "description": "Orig CO Name:Vcc Dba Ndcc-Re",
+                                "amount": 8500.0,
+                                "debit": null,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102944,
+                                "date": "2026-03-31",
+                                "description": "Online Payment To M&T Bank",
+                                "amount": null,
+                                "debit": 364.07,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102945,
+                                "date": "2026-03-31",
+                                "description": "Online Payment To Synchrony Bank",
+                                "amount": null,
+                                "debit": 35.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102946,
+                                "date": "2026-03-31",
+                                "description": "Online Domestic Wire Transfer A/C: Riverside Park Capital Inc.",
+                                "amount": null,
+                                "debit": 12000.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102947,
+                                "date": "2026-03-31",
+                                "description": "Orig CO Name:American Express",
+                                "amount": null,
+                                "debit": 440.36,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102948,
+                                "date": "2026-03-31",
+                                "description": "Online Payment To Lowes",
+                                "amount": null,
+                                "debit": 1000.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102949,
+                                "date": "2026-03-02",
+                                "description": "Standard ACH Pmnts Initial Fee",
+                                "amount": null,
+                                "debit": 2.5,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102950,
+                                "date": "2026-03-03",
+                                "description": "Online Domestic Wire Fee",
+                                "amount": null,
+                                "debit": 25.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102951,
+                                "date": "2026-03-10",
+                                "description": "Online Domestic Wire Fee",
+                                "amount": null,
+                                "debit": 25.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102952,
+                                "date": "2026-03-10",
+                                "description": "Domestic Incoming Wire Fee",
+                                "amount": null,
+                                "debit": 15.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102953,
+                                "date": "2026-03-12",
+                                "description": "Online Domestic Wire Fee",
+                                "amount": null,
+                                "debit": 25.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102954,
+                                "date": "2026-03-30",
+                                "description": "Online Domestic Wire Fee",
+                                "amount": null,
+                                "debit": 25.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102955,
+                                "date": "2026-03-31",
+                                "description": "Online Domestic Wire Fee",
+                                "amount": null,
+                                "debit": 25.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102856,
+                                "date": "2026-03-02",
+                                "description": "Deposit 1294975378",
+                                "amount": 7625.0,
+                                "debit": null,
+                                "tags": [
+                                    "outside_source_deposits"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102857,
+                                "date": "2026-03-02",
+                                "description": "Orig CO Name:Nfcu ACH",
+                                "amount": 3750.0,
+                                "debit": null,
+                                "tags": [
+                                    "ach_transfer"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102862,
+                                "date": "2026-03-03",
+                                "description": "Payment Received 03/03 Cash App*Rem Olympia",
+                                "amount": 200.0,
+                                "debit": null,
+                                "tags": [
+                                    "venmo_zelle_cashapp"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102863,
+                                "date": "2026-03-06",
+                                "description": "Book Transfer Customer Ref: Zf6Dkfmmrimtpi9",
+                                "amount": 929.1,
+                                "debit": null,
+                                "tags": [
+                                    "other_transfer"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102882,
+                                "date": "2026-03-09",
+                                "description": "Deposit 1295025160",
+                                "amount": 3280.0,
+                                "debit": null,
+                                "tags": [
+                                    "outside_source_deposits"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102885,
+                                "date": "2026-03-10",
+                                "description": "Fedwire Credit Via: Peapack-Gladstone Bank",
+                                "amount": 95930.8,
+                                "debit": null,
+                                "tags": [
+                                    "wire_transfer"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102870,
+                                "date": "2026-03-03",
+                                "description": "03/03 Online Domestic Wire Transfer Via: Pncbank",
+                                "amount": null,
+                                "debit": 6000.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102871,
+                                "date": "2026-03-03",
+                                "description": "Zelle Payment To Adam Holbrook",
+                                "amount": null,
+                                "debit": 575.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102872,
+                                "date": "2026-03-03",
+                                "description": "Card Purchase 02/28 City of Aberdeen",
+                                "amount": null,
+                                "debit": 185.71,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102873,
+                                "date": "2026-03-04",
+                                "description": "Orig CO Name:American Express",
+                                "amount": null,
+                                "debit": 1000.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102874,
+                                "date": "2026-03-04",
+                                "description": "Orig CO Name:Cv3 Financial",
+                                "amount": null,
+                                "debit": 3989.34,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102875,
+                                "date": "2026-03-05",
+                                "description": "03/05 Online Transfer 27981898262 To Biznavyfed",
+                                "amount": null,
+                                "debit": 10.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102876,
+                                "date": "2026-03-06",
+                                "description": "Orig CO Name:Novuscapital II",
+                                "amount": null,
+                                "debit": 4035.58,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102877,
+                                "date": "2026-03-06",
+                                "description": "Orig CO Name:Cascade Natural",
+                                "amount": null,
+                                "debit": 80.39,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102878,
+                                "date": "2026-03-06",
+                                "description": "Orig CO Name:Chase Credit Crd",
+                                "amount": null,
+                                "debit": 659.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102879,
+                                "date": "2026-03-06",
+                                "description": "Orig CO Name:City of Bremerto",
+                                "amount": null,
+                                "debit": 663.67,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102880,
+                                "date": "2026-03-06",
+                                "description": "Orig CO Name:City of Bremerto",
+                                "amount": null,
+                                "debit": 433.1,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102883,
+                                "date": "2026-03-09",
+                                "description": "Orig CO Name:Starlink Interne",
+                                "amount": null,
+                                "debit": 125.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102884,
+                                "date": "2026-03-09",
+                                "description": "Orig CO Name:Amz_Storecrd_Pmt",
+                                "amount": null,
+                                "debit": 27.73,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102886,
+                                "date": "2026-03-10",
+                                "description": "Zelle Payment To Jane Snyder",
+                                "amount": null,
+                                "debit": 4000.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102887,
+                                "date": "2026-03-10",
+                                "description": "Orig CO Name:Chase Credit Crd",
+                                "amount": null,
+                                "debit": 725.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102888,
+                                "date": "2026-03-10",
+                                "description": "03/10 Online Domestic Wire Transfer Via: Ew Bk Smrino",
+                                "amount": null,
+                                "debit": 8500.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102889,
+                                "date": "2026-03-11",
+                                "description": "Recurring Card Purchase 03/10 Grays Harbor PUD",
+                                "amount": null,
+                                "debit": 120.21,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102890,
+                                "date": "2026-03-12",
+                                "description": "03/12 Online Realtime Transfer To CAP 1",
+                                "amount": null,
+                                "debit": 8000.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102891,
+                                "date": "2026-03-12",
+                                "description": "03/12 Online Transfer 28398123212 To Clearpath",
+                                "amount": null,
+                                "debit": 8200.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102892,
+                                "date": "2026-03-12",
+                                "description": "03/12 Online Domestic Wire Transfer Via: Columbia Bank",
+                                "amount": null,
+                                "debit": 5000.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102893,
+                                "date": "2026-03-13",
+                                "description": "Orig CO Name:Novuscapital II",
+                                "amount": null,
+                                "debit": 6995.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102894,
+                                "date": "2026-03-16",
+                                "description": "Remote Online Deposit 1",
+                                "amount": 1200.0,
+                                "debit": null,
+                                "tags": [
+                                    "remote"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102895,
+                                "date": "2026-03-16",
+                                "description": "Orig CO Name:Lightstream",
+                                "amount": null,
+                                "debit": 860.55,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102896,
+                                "date": "2026-03-16",
+                                "description": "Orig CO Name:American Express",
+                                "amount": null,
+                                "debit": 48.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102897,
+                                "date": "2026-03-16",
+                                "description": "Orig CO Name:Quantum Fiber",
+                                "amount": null,
+                                "debit": 75.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102898,
+                                "date": "2026-03-16",
+                                "description": "Recurring Card Purchase 03/15 Quantum Fiber",
+                                "amount": null,
+                                "debit": 85.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102899,
+                                "date": "2026-03-18",
+                                "description": "Orig CO Name:Reinsurepro",
+                                "amount": null,
+                                "debit": 882.17,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102900,
+                                "date": "2026-03-18",
+                                "description": "Orig CO Name:Cardmember Serv",
+                                "amount": null,
+                                "debit": 214.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102901,
+                                "date": "2026-03-19",
+                                "description": "03/19 Basic Online Payroll Payment",
+                                "amount": null,
+                                "debit": 3000.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102902,
+                                "date": "2026-03-19",
+                                "description": "Orig CO Name:Newrez-Shellpoin",
+                                "amount": null,
+                                "debit": 2277.49,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102903,
+                                "date": "2026-03-19",
+                                "description": "Orig CO Name:Cascade Natural",
+                                "amount": null,
+                                "debit": 98.63,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102904,
+                                "date": "2026-03-19",
+                                "description": "Orig CO Name:Cascade Natural",
+                                "amount": null,
+                                "debit": 88.17,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102907,
+                                "date": "2026-03-20",
+                                "description": "Online Transfer From Chk",
+                                "amount": 30000.0,
+                                "debit": null,
+                                "tags": [
+                                    "internal_transfer"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102908,
+                                "date": "2026-03-20",
+                                "description": "Orig CO Name:Novuscapital II",
+                                "amount": null,
+                                "debit": 6995.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102909,
+                                "date": "2026-03-24",
+                                "description": "Deposit 2172633103",
+                                "amount": 3550.0,
+                                "debit": null,
+                                "tags": [
+                                    "outside_source_deposits"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102912,
+                                "date": "2026-03-30",
+                                "description": "Zelle Payment From Lauryn Keeton",
+                                "amount": 1755.0,
+                                "debit": null,
+                                "tags": [
+                                    "venmo_zelle_cashapp"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102913,
+                                "date": "2026-03-23",
+                                "description": "Orig CO Name:Home Depot",
+                                "amount": null,
+                                "debit": 2065.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102914,
+                                "date": "2026-03-23",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 120.41,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102915,
+                                "date": "2026-03-23",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 117.46,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102916,
+                                "date": "2026-03-23",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 116.48,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102917,
+                                "date": "2026-03-23",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 113.89,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102918,
+                                "date": "2026-03-23",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 88.21,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102919,
+                                "date": "2026-03-23",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 83.66,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102920,
+                                "date": "2026-03-23",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 81.49,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102921,
+                                "date": "2026-03-23",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 75.96,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102922,
+                                "date": "2026-03-23",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 73.99,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102923,
+                                "date": "2026-03-23",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 68.06,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102924,
+                                "date": "2026-03-23",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 66.87,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102925,
+                                "date": "2026-03-23",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 65.29,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102926,
+                                "date": "2026-03-23",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 64.7,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102927,
+                                "date": "2026-03-23",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 59.75,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102928,
+                                "date": "2026-03-23",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 55.61,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102929,
+                                "date": "2026-03-23",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 55.02,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102930,
+                                "date": "2026-03-23",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 53.45,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102931,
+                                "date": "2026-03-23",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 50.47,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102932,
+                                "date": "2026-03-23",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 46.72,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102933,
+                                "date": "2026-03-23",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 45.92,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102934,
+                                "date": "2026-03-23",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 34.67,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102935,
+                                "date": "2026-03-24",
+                                "description": "Online Realtime Transfer To CAP 1",
+                                "amount": null,
+                                "debit": 5000.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102936,
+                                "date": "2026-03-24",
+                                "description": "Orig CO Name:Waste Management",
+                                "amount": null,
+                                "debit": 326.18,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102937,
+                                "date": "2026-03-24",
+                                "description": "Orig CO Name:Quantum Fiber",
+                                "amount": null,
+                                "debit": 75.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102938,
+                                "date": "2026-03-26",
+                                "description": "Orig CO Name:T-Mobile",
+                                "amount": null,
+                                "debit": 276.67,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102939,
+                                "date": "2026-03-26",
+                                "description": "Online Transfer To Becu",
+                                "amount": null,
+                                "debit": 8000.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102940,
+                                "date": "2026-03-26",
+                                "description": "Orig CO Name:Quantum Fiber",
+                                "amount": null,
+                                "debit": 80.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102941,
+                                "date": "2026-03-27",
+                                "description": "Orig CO Name:Novuscapital II",
+                                "amount": null,
+                                "debit": 6995.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102942,
+                                "date": "2026-03-27",
+                                "description": "Online Payment To Our Credit Union",
+                                "amount": null,
+                                "debit": 847.94,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102943,
+                                "date": "2026-03-30",
+                                "description": "Online Domestic Wire Transfer Via: Sound CU",
+                                "amount": null,
+                                "debit": 5000.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102858,
+                                "date": "2026-03-02",
+                                "description": "Orig CO Name:Nfcu ACH",
+                                "amount": 1825.0,
+                                "debit": null,
+                                "tags": [
+                                    "ach_transfer"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102859,
+                                "date": "2026-03-02",
+                                "description": "Zelle Payment From Lauryn Keeton",
+                                "amount": 1755.0,
+                                "debit": null,
+                                "tags": [
+                                    "venmo_zelle_cashapp"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102860,
+                                "date": "2026-03-02",
+                                "description": "Zelle Payment From Sam Mirhosseinvakili",
+                                "amount": 1700.0,
+                                "debit": null,
+                                "tags": [
+                                    "venmo_zelle_cashapp"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1102861,
+                                "date": "2026-03-03",
+                                "description": "Orig CO Name:Nfcu ACH",
+                                "amount": 1705.0,
+                                "debit": null,
+                                "tags": [
+                                    "ach_transfer"
+                                ],
+                                "revenue": null
                             }
-                        ]
+                        ],
+                        "statement_period": "2026-03-MAR",
+                        "confidence_percentage": 99.95,
+                        "total_actual_deposits": 217804.9,
+                        "deposits_validation_flag": "OK",
+                        "total_extracted_deposits": 217804.9
                     },
                     {
-                        "statement_period": "2024-06",
+                        "bank_statement_id": 7838,
+                        "failed_pages": [],
                         "transactions": [
                             {
-                                "date": "06/03/24",
-                                "description": "Fratello Capital DES:DC ID: INDN:DESIGN & ANIMAT CO ID:1881146459 CCD",
-                                "amount": 2559.05,
-                                "page": 3,
-                                "all_tags": [
-                                    "Fratello Capital"
-                                ]
+                                "transaction_id": 1106207,
+                                "date": "2026-01-02",
+                                "description": "Orig CO Name:Nfcu ACH Orig ID:9000000011 Desc Date:251231 CO Entry Descr:P2P Sec:Web Trace#:256074974475846 Eed:260102 Ind ID:Kyle A Durham-V Ind Name:Rem Olympia 293438196000001 Trn: 0024475846Tc",
+                                "amount": 3750.0,
+                                "debit": null,
+                                "tags": [
+                                    "ach_transfer"
+                                ],
+                                "revenue": null
                             },
                             {
-                                "date": "06/03/24",
-                                "description": "BKOFAMERICA ATM 06/03 #000002577 DEPOSIT WEST COVINA WEST COVINA CA",
-                                "amount": 963.0,
-                                "page": 3,
-                                "all_tags": [
-                                    "outside_source_deposits",
-                                    "BKOFAMERICA ATM"
-                                ]
+                                "transaction_id": 1106222,
+                                "date": "2026-01-20",
+                                "description": "Orig CO Name:Kiewit Finance G Orig ID:200433579 Desc Date: CO Entry Descr:A/P Pmts Sec:CCD Trace#:041000128119599 Eed:260120 Ind ID:000000010140385 Ind Name:Rei Lacey LLC Dba Rem Direct Deposit Trn: 0208119599Tc",
+                                "amount": 51100.0,
+                                "debit": null,
+                                "tags": [
+                                    "ach_transfer"
+                                ],
+                                "revenue": null
                             },
                             {
-                                "date": "06/03/24",
-                                "description": "Square Inc DES:240603P2 ID:L21380754864 INDN:Miguel Angel Sanchez H CO ID:9424300002 PPD",
-                                "amount": 667.56,
-                                "page": 3,
-                                "all_tags": [
-                                    "Square Inc"
-                                ]
+                                "transaction_id": 1106208,
+                                "date": "2026-01-02",
+                                "description": "Orig CO Name:Nfcu ACH Orig ID:9000000011 Desc Date:251231 CO Entry Descr:P2P Sec:Web Trace#:256074974475748 Eed:260102 Ind ID:William G Kaspa Ind Name:Rem Olympia LLC 293421298000001 Trn: 0024475748Tc",
+                                "amount": 1825.0,
+                                "debit": null,
+                                "tags": [
+                                    "ach_transfer"
+                                ],
+                                "revenue": null
                             },
                             {
-                                "date": "06/03/24",
-                                "description": "Cash Deposit Processing",
-                                "amount": -15.9,
-                                "page": 9,
-                                "all_tags": [
-                                    "expense",
-                                    "debit_card",
-                                    "CASH DEPOSIT"
-                                ]
+                                "transaction_id": 1106209,
+                                "date": "2026-01-02",
+                                "description": "Orig CO Name:Nfcu ACH Orig ID:9000000021 Desc Date:251231 CO Entry Descr:P2P Sec:Web Trace#:256074974475962 Eed:260102 Ind ID:Ian P Barnes Ind Name:Rem Olympia LLC 293334470000002 Trn: 0024475962Tc",
+                                "amount": 1705.0,
+                                "debit": null,
+                                "tags": [
+                                    "ach_transfer"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1106210,
+                                "date": "2026-01-02",
+                                "description": "Zelle Payment From Sam Mirhosseinvakili 27548702518",
+                                "amount": 1700.0,
+                                "debit": null,
+                                "tags": [
+                                    "venmo_zelle_cashapp"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1106211,
+                                "date": "2026-01-05",
+                                "description": "Zelle Payment From Brandan Whitley Nav007Bnc0Ry",
+                                "amount": 1500.0,
+                                "debit": null,
+                                "tags": [
+                                    "venmo_zelle_cashapp"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1106212,
+                                "date": "2026-01-05",
+                                "description": "Zelle Payment From Brandan Whitley Nav007Bnbir2",
+                                "amount": 25.0,
+                                "debit": null,
+                                "tags": [
+                                    "venmo_zelle_cashapp"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1106214,
+                                "date": "2026-01-08",
+                                "description": "Zelle Payment From Adam Holbrook Nav007Grk5N3",
+                                "amount": 1000.0,
+                                "debit": null,
+                                "tags": [
+                                    "venmo_zelle_cashapp"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1106213,
+                                "date": "2026-01-06",
+                                "description": "Book Transfer Customer Ref: W6Mjje56Q4Rt3Gk B/O Customer= Paymentech LLC Bene Account= 363569705 Paydet= Deposit ID-W6Mjje56Q4Rt3Gk Uprid: Walgl80G02Skkgy",
+                                "amount": 1461.88,
+                                "debit": null,
+                                "tags": [
+                                    "other_transfer"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1106215,
+                                "date": "2026-01-09",
+                                "description": "Book Transfer Customer Ref: Tix4Fwy55Bqvddp B/O Customer= Paymentech LLC Bene Account= 363569705 Paydet= Deposit ID-Tix4Fwy55Bqvddp Uprid: Walgdkvcqfxm2PR",
+                                "amount": 400.38,
+                                "debit": null,
+                                "tags": [
+                                    "other_transfer"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1106216,
+                                "date": "2026-01-12",
+                                "description": "Real Time Payment Credit Recd From Aba/Contr Bnk-125000105 From: Christina A Young Ref: Fb04Ce146260Da5 Info: Text- lid: 20260111042000013P1Bmmca12380037655 Recd: 20:58:51 Trn: 1965302011Ge",
+                                "amount": 5000.0,
+                                "debit": null,
+                                "tags": [
+                                    "other_transfer"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1106217,
+                                "date": "2026-01-12",
+                                "description": "Zelle Payment From Adam Holbrook Nav020Itgyxv",
+                                "amount": 1228.5,
+                                "debit": null,
+                                "tags": [
+                                    "venmo_zelle_cashapp"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1106218,
+                                "date": "2026-01-15",
+                                "description": "Card Purchase Return 01/15 Amazon Mktplace Pmts Amzn.Com/Bill WA Card 9897",
+                                "amount": 584.12,
+                                "debit": null,
+                                "tags": [
+                                    "reversed"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1106219,
+                                "date": "2026-01-15",
+                                "description": "Real Time Payment Credit Recd From Aba/Contr Bnk-125000105 From: Christina A Young Ref: C405Fc5D0181D7C Info: Text- lid: 20260115042000013P1Bmmca55612499675 Recd: 01:15:23 Trn: 2197262014GA",
+                                "amount": 5000.0,
+                                "debit": null,
+                                "tags": [
+                                    "other_transfer"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1106220,
+                                "date": "2026-01-16",
+                                "description": "Remote Online Deposit 1",
+                                "amount": 5000.0,
+                                "debit": null,
+                                "tags": [
+                                    "remote"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1106221,
+                                "date": "2026-01-16",
+                                "description": "Remote Online Deposit 1",
+                                "amount": 2000.0,
+                                "debit": null,
+                                "tags": [
+                                    "remote"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1106223,
+                                "date": "2026-01-21",
+                                "description": "Payment Received 01/21 Cash App*Rem Olympia Y Oakland CA Card 9897",
+                                "amount": 1700.0,
+                                "debit": null,
+                                "tags": [
+                                    "venmo_zelle_cashapp"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1106224,
+                                "date": "2026-01-26",
+                                "description": "Real Time Payment Credit Recd From Aba/Contr Bnk-125000105 From: Christina A Young Ref: 73D9C073F207D1B Info: Text- lid: 20260123042000013P1Bmmca78556085624 Recd: 00:54:45 Tm: 2354582023Gb",
+                                "amount": 5000.0,
+                                "debit": null,
+                                "tags": [
+                                    "other_transfer"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1106225,
+                                "date": "2026-01-27",
+                                "description": "Book Transfer Customer Ref: lyhfn1Cyfzgezjl B/O Customer= Paymentech LLC Bene Account= 363569705 Paydet= Deposit ID-lyhfn1Cyfzgezjl Uprid: Walgwh0Lnk5V0Jh",
+                                "amount": 1753.31,
+                                "debit": null,
+                                "tags": [
+                                    "other_transfer"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1106226,
+                                "date": "2026-01-30",
+                                "description": "Remote Online Deposit 1",
+                                "amount": 1575.0,
+                                "debit": null,
+                                "tags": [
+                                    "remote"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1106227,
+                                "date": "2026-01-30",
+                                "description": "Interest Payment",
+                                "amount": 0.16,
+                                "debit": null,
+                                "tags": [
+                                    "investment"
+                                ],
+                                "revenue": null
                             }
-                        ]
-                    }
-                ]
-            }
-        },
-        {
-            "basic_info": {
-                "account_name": "BANGOR_SAVINGS_BANK",
-                "account_number": "7840",
-                "processing_time": 29.3
-            },
-            "bank_statement_facts": {
-                "statements": [
+                        ],
+                        "statement_period": "2026-01-JAN",
+                        "confidence_percentage": 100.0,
+                        "total_actual_deposits": 93308.35,
+                        "deposits_validation_flag": "OK",
+                        "total_extracted_deposits": 93308.35
+                    },
                     {
-                        "statement_period": "2024-04",
+                        "bank_statement_id": 7839,
+                        "failed_pages": [],
                         "transactions": [
                             {
-                                "date": "04/01/2024",
-                                "description": "Non-BSB ATM fee rebate",
-                                "amount": 3.5,
-                                "page": 1,
-                                "all_tags": [
-                                    "revenue_deduction",
-                                    "Non-BSB ATM fee rebate"
-                                ]
-                            },
-                            {
-                                "date": "04/02/2024",
-                                "description": "EverTransi EverTransit LLC CCD",
-                                "amount": 39.21,
-                                "page": 1,
-                                "all_tags": [
-                                    "EverTransit LLC"
-                                ]
-                            },
-                            {
-                                "date": "04/02/2024",
-                                "description": "DEPOSIT INTUIT 78628305 CCD",
-                                "amount": 1134.0,
-                                "page": 1,
-                                "all_tags": [
-                                    "INTUIT"
-                                ]
-                            },
-                            {
-                                "date": "04/03/2024",
-                                "description": "Non-BSB ATM fee rebate",
-                                "amount": 3.5,
-                                "page": 1,
-                                "all_tags": [
-                                    "revenue_deduction",
-                                    "Non-BSB ATM fee rebate"
-                                ]
-                            },
-                            {
-                                "date": "4/03",
-                                "description": "EverTransi EverTransit LLC CCD",
-                                "amount": 515.18,
-                                "page": 2,
-                                "all_tags": [
-                                    "EverTransit LLC"
-                                ]
-                            },
-                            {
-                                "date": "4/03",
-                                "description": "CONS PAY WALDO COMMUNITY PPD",
-                                "amount": 17732.86,
-                                "page": 2,
-                                "all_tags": [
-                                    "WALDO COMMUNITY"
-                                ]
-                            },
-                            {
-                                "date": "04/10",
-                                "description": "Check No $174*",
-                                "amount": -825.0,
-                                "page": 9,
-                                "all_tags": [
-                                    "expense",
-                                    "checks"
-                                ]
-                            },
-                            {
-                                "date": "04/08",
-                                "description": "Check No 169",
-                                "amount": -500.0,
-                                "page": 9,
-                                "all_tags": [
-                                    "expense",
-                                    "checks"
-                                ]
+                                "transaction_id": 1106206,
+                                "date": "2026-02-27",
+                                "description": "Interest Payment Ending",
+                                "amount": 0.15,
+                                "debit": null,
+                                "tags": [
+                                    "investment"
+                                ],
+                                "revenue": null
                             }
-                        ]
+                        ],
+                        "statement_period": "2026-02-FEB",
+                        "confidence_percentage": 100.0,
+                        "total_actual_deposits": 0.15,
+                        "deposits_validation_flag": "OK",
+                        "total_extracted_deposits": 0.15
+                    },
+                    {
+                        "bank_statement_id": 7840,
+                        "failed_pages": [],
+                        "transactions": [
+                            {
+                                "transaction_id": 1103217,
+                                "date": "2026-04-17",
+                                "description": "04/17 Basic Online Payroll Payment 11211645882 To ######7728",
+                                "amount": null,
+                                "debit": 3000.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103198,
+                                "date": "2026-04-09",
+                                "description": "04/09 Payment To Chase Card Ending IN 7984",
+                                "amount": null,
+                                "debit": 3000.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103199,
+                                "date": "2026-04-10",
+                                "description": "Zelle Payment To Jane Snyder Jpm99Ccjzd2C",
+                                "amount": null,
+                                "debit": 4000.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103220,
+                                "date": "2026-04-20",
+                                "description": "04/19 Payment To Chase Card Ending IN 1428",
+                                "amount": null,
+                                "debit": 1000.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103233,
+                                "date": "2026-04-22",
+                                "description": "Orig CO Name:Puget Sound Ener Orig ID:0000000160 Desc Date:260421 CO Entry Descr:Billpay Sec:PPD Trace#:091000014210863 Eed:260422 Ind ID: Ind Name:Rem Olympia Trn: 1124210863Tc",
+                                "amount": null,
+                                "debit": 78.08,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103234,
+                                "date": "2026-04-22",
+                                "description": "Orig CO Name:Puget Sound Ener Orig ID:0000000160 Desc Date:260421 CO Entry Descr:Billpay Sec:PPD Trace#:091000014211174 Eed:260422 Ind ID: Ind Name:Rem Olympia Trn: 1124211174Tc",
+                                "amount": null,
+                                "debit": 78.08,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103235,
+                                "date": "2026-04-22",
+                                "description": "Orig CO Name:Puget Sound Ener Orig ID:0000000160 Desc Date:260421 CO Entry Descr:Billpay Sec:PPD Trace#:091000014210877 Eed:260422 Ind ID: Ind Name:Rem Olympia Trn: 1124210877Tc",
+                                "amount": null,
+                                "debit": 69.18,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103236,
+                                "date": "2026-04-22",
+                                "description": "Orig CO Name:Puget Sound Ener Orig ID:0000000160 Desc Date:260421 CO Entry Descr:Billpay Sec:PPD Trace#:091000014210744 Eed:260422 Ind ID: Ind Name:Rem Olympia Trn: 1124210744Tc",
+                                "amount": null,
+                                "debit": 66.2,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103237,
+                                "date": "2026-04-22",
+                                "description": "Orig CO Name:Puget Sound Ener Orig ID:0000000160 Desc Date:260421 CO Entry Descr:Billpay Sec:PPD Trace#:091000014211181 Eed:260422 Ind ID: Ind Name:Rem Olympia Trn: 1124211181Tc",
+                                "amount": null,
+                                "debit": 65.41,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103238,
+                                "date": "2026-04-22",
+                                "description": "Orig CO Name:Puget Sound Ener Orig ID:0000000160 Desc Date:260421 CO Entry Descr:Billpay Sec:PPD Trace#:091000014210736 Eed:260422 Ind ID: Ind Name:Rem Olympia Trn: 1124210736Tc",
+                                "amount": null,
+                                "debit": 63.84,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103239,
+                                "date": "2026-04-22",
+                                "description": "Orig CO Name:Puget Sound Ener Orig ID:0000000160 Desc Date:260421 CO Entry Descr:Billpay Sec:PPD Trace#:091000014248451 Eed:260422 Ind ID: Ind Name:Rem Olympia Trn: 1124248451Tc",
+                                "amount": null,
+                                "debit": 62.65,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103240,
+                                "date": "2026-04-22",
+                                "description": "Orig CO Name:Puget Sound Ener Orig ID:0000000160 Desc Date:260421 CO Entry Descr:Billpay Sec:PPD Trace#:091000014210859 Eed:260422 Ind ID: Ind Name:Rem Olympia Trn: 1124210859Tc",
+                                "amount": null,
+                                "debit": 61.26,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103241,
+                                "date": "2026-04-22",
+                                "description": "Orig CO Name:Puget Sound Ener Orig ID:0000000160 Desc Date:260421 CO Entry Descr:Billpay Sec:PPD Trace#:091000014248457 Eed:260422 Ind ID: Ind Name:Rem Olympia Trn: 1124248457Tc",
+                                "amount": null,
+                                "debit": 60.86,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103242,
+                                "date": "2026-04-22",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 58.87,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103243,
+                                "date": "2026-04-22",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 56.89,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103244,
+                                "date": "2026-04-22",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 54.92,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103245,
+                                "date": "2026-04-22",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 53.93,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103246,
+                                "date": "2026-04-22",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 53.73,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103247,
+                                "date": "2026-04-22",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 53.35,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103248,
+                                "date": "2026-04-22",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 50.16,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103249,
+                                "date": "2026-04-22",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 49.37,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103250,
+                                "date": "2026-04-22",
+                                "description": "Orig CO Name:Puget Sound Ener",
+                                "amount": null,
+                                "debit": 42.06,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103251,
+                                "date": "2026-04-24",
+                                "description": "Orig CO Name:Novuscapital II",
+                                "amount": null,
+                                "debit": 6995.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103252,
+                                "date": "2026-04-24",
+                                "description": "Orig CO Name:Quantum Fiber",
+                                "amount": null,
+                                "debit": 75.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103253,
+                                "date": "2026-04-27",
+                                "description": "Online Realtime Transfer To CAP 1",
+                                "amount": null,
+                                "debit": 5000.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103254,
+                                "date": "2026-04-27",
+                                "description": "Online Transfer To Clearpath",
+                                "amount": null,
+                                "debit": 10705.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103255,
+                                "date": "2026-04-27",
+                                "description": "Orig CO Name:T-Mobile",
+                                "amount": null,
+                                "debit": 276.69,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103187,
+                                "date": "2026-04-02",
+                                "description": "04/02 Online Transfer 28312916690 To Biznavyfed ######7035 Transaction #: 28312916690",
+                                "amount": null,
+                                "debit": 10.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103219,
+                                "date": "2026-04-20",
+                                "description": "Orig CO Name:Cardmember Serv Orig ID:5911111111 Desc Date:260420 CO Entry Descr:Web Pymt Sec:CCD Trace#:042000016905708 Eed:260420 Ind ID:***********3228 Ind Name:Young,Steve 22 Trn: 1106905708Tc",
+                                "amount": null,
+                                "debit": 248.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103221,
+                                "date": "2026-04-20",
+                                "description": "Orig CO Name:American Express Orig ID:2005032111 Desc Date:260420 CO Entry Descr:ACH Pmt Sec:CCD Trace#:021000020141167 Eed:260420 Ind ID:M7282 Ind Name:Christina Young Er Am Trn: 1100141167Tc",
+                                "amount": null,
+                                "debit": 746.08,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103222,
+                                "date": "2026-04-20",
+                                "description": "Zelle Payment To Sam Vikili 28905999617",
+                                "amount": null,
+                                "debit": 2005.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103223,
+                                "date": "2026-04-20",
+                                "description": "Zelle Payment To Sam Vikili 28906022316",
+                                "amount": null,
+                                "debit": 4395.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103225,
+                                "date": "2026-04-22",
+                                "description": "Orig CO Name:Waste Management Orig ID:9580653001 Desc Date:260421 CO Entry Descr:Payment Sec:PPD Trace#:021000022678141 Eed:260422 Ind ID: Ind Name:Rem Olympia Trn: 1122678141Tc",
+                                "amount": null,
+                                "debit": 326.18,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103230,
+                                "date": "2026-04-22",
+                                "description": "Orig CO Name:Puget Sound Ener Orig ID:0000000160 Desc Date:260421 CO Entry Descr:Billpay Sec:PPD Trace#:091000014210743 Eed:260422 Ind ID: Ind Name:Rem Olympia Trn: 1124210743Tc",
+                                "amount": null,
+                                "debit": 92.53,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103231,
+                                "date": "2026-04-22",
+                                "description": "Orig CO Name:Puget Sound Ener Orig ID:0000000160 Desc Date:260421 CO Entry Descr:Billpay Sec:PPD Trace#:091000014248459 Eed:260422 Ind ID: Ind Name:Rem Olympia Trn: 1124248459Tc",
+                                "amount": null,
+                                "debit": 83.82,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103232,
+                                "date": "2026-04-22",
+                                "description": "Orig CO Name:Puget Sound Ener Orig ID:0000000160 Desc Date:260421 CO Entry Descr:Billpay Sec:PPD Trace#:091000014210739 Eed:260422 Ind ID: Ind Name:Rem Olympia Trn: 1124210739Tc",
+                                "amount": null,
+                                "debit": 80.25,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103256,
+                                "date": "2026-04-27",
+                                "description": "Orig CO Name:Quantum Fiber",
+                                "amount": null,
+                                "debit": 75.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103257,
+                                "date": "2026-04-28",
+                                "description": "Online Payment To Our Credit Union",
+                                "amount": null,
+                                "debit": 847.94,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103258,
+                                "date": "2026-04-30",
+                                "description": "Online Payment To M&T Bank",
+                                "amount": null,
+                                "debit": 364.07,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103259,
+                                "date": "2026-04-30",
+                                "description": "Online Payment To Synchrony Bank",
+                                "amount": null,
+                                "debit": 2035.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103260,
+                                "date": "2026-04-30",
+                                "description": "Orig CO Name:Kitsap County",
+                                "amount": null,
+                                "debit": 3618.7,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103261,
+                                "date": "2026-04-01",
+                                "description": "Standard ACH Pmnts Initial Fee",
+                                "amount": null,
+                                "debit": 2.5,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103227,
+                                "date": "2026-04-22",
+                                "description": "Orig CO Name:Puget Sound Ener Orig ID:0000000160 Desc Date:260421 CO Entry Descr:Billpay Sec:PPD Trace#:091000014210735 Eed:260422 Ind ID: Ind Name:Rem Olympia Trn: 1124210735Tc",
+                                "amount": null,
+                                "debit": 136.2,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103228,
+                                "date": "2026-04-22",
+                                "description": "Orig CO Name:Puget Sound Ener Orig ID:0000000160 Desc Date:260421 CO Entry Descr:Billpay Sec:PPD Trace#:091000014211209 Eed:260422 Ind ID: Ind Name:Rem Olympia Trn: 1124211209Tc",
+                                "amount": null,
+                                "debit": 120.84,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103229,
+                                "date": "2026-04-22",
+                                "description": "Orig CO Name:Puget Sound Ener Orig ID:0000000160 Desc Date:260421 CO Entry Descr:Billpay Sec:PPD Trace#:091000014248453 Eed:260422 Ind ID: Ind Name:Rem Olympia Trn: 1124248453Tc",
+                                "amount": null,
+                                "debit": 104.22,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103162,
+                                "date": "2026-04-01",
+                                "description": "Orig CO Name:Nfcu ACH Orig ID:9000000011 Desc Date:260331 CO Entry Descr:P2P Sec:Web Trace#:256074970150916 Eed:260401 Ind ID:Kyle Durham-V Ind Name:Rem Olympia 302185867000001 Trn: 0910150916Tc",
+                                "amount": 3750.0,
+                                "debit": null,
+                                "tags": [
+                                    "ach_transfer"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103172,
+                                "date": "2026-04-22",
+                                "description": "Orig CO Name:Kiewit Finance G Orig ID:200433579 Desc Date: CO Entry Descr:A/P Pmts Sec:CCD Trace#:041000126589926 Eed:260422 Ind ID:000000010140385 Ind Name:Rei Lacey LLC Dba Rem Direct Deposit Trn: 1126589926Tc",
+                                "amount": 51100.0,
+                                "debit": null,
+                                "tags": [
+                                    "ach_transfer"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103163,
+                                "date": "2026-04-02",
+                                "description": "Zelle Payment From Sam Mirhosseinvakili 28673680322",
+                                "amount": 1700.0,
+                                "debit": null,
+                                "tags": [
+                                    "venmo_zelle_cashapp"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103164,
+                                "date": "2026-04-06",
+                                "description": "Remote Online Deposit 1",
+                                "amount": 1855.0,
+                                "debit": null,
+                                "tags": [
+                                    "remote"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103165,
+                                "date": "2026-04-06",
+                                "description": "Remote Online Deposit 1",
+                                "amount": 67.49,
+                                "debit": null,
+                                "tags": [
+                                    "remote"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103166,
+                                "date": "2026-04-07",
+                                "description": "Zelle Payment From Tyler Mckay Nav022Xhn4W2",
+                                "amount": 800.0,
+                                "debit": null,
+                                "tags": [
+                                    "venmo_zelle_cashapp"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103167,
+                                "date": "2026-04-08",
+                                "description": "Zelle Payment From Tyler Mckay Nav022Yhvsj9",
+                                "amount": 1348.0,
+                                "debit": null,
+                                "tags": [
+                                    "venmo_zelle_cashapp"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103168,
+                                "date": "2026-04-10",
+                                "description": "Remote Online Deposit 1",
+                                "amount": 6000.0,
+                                "debit": null,
+                                "tags": [
+                                    "remote"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103169,
+                                "date": "2026-04-13",
+                                "description": "Remote Online Deposit 1",
+                                "amount": 1660.0,
+                                "debit": null,
+                                "tags": [
+                                    "remote"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103170,
+                                "date": "2026-04-13",
+                                "description": "Zelle Payment From Tori Baunach Pncaa0Zpe10W",
+                                "amount": 1865.0,
+                                "debit": null,
+                                "tags": [
+                                    "venmo_zelle_cashapp"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103171,
+                                "date": "2026-04-20",
+                                "description": "Remote Online Deposit 1",
+                                "amount": 2462.93,
+                                "debit": null,
+                                "tags": [
+                                    "remote"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103173,
+                                "date": "2026-04-27",
+                                "description": "Zelle Payment From Gerardo Vanderkam Wfct124299Tt",
+                                "amount": 2.0,
+                                "debit": null,
+                                "tags": [
+                                    "venmo_zelle_cashapp"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103174,
+                                "date": "2026-04-28",
+                                "description": "Zelle Payment From Gerardo Vanderkam Wfct12438Csm",
+                                "amount": 1825.0,
+                                "debit": null,
+                                "tags": [
+                                    "venmo_zelle_cashapp"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103175,
+                                "date": "2026-04-28",
+                                "description": "Zelle Payment From Gerardo Vanderkam Wfct1242Jbdy",
+                                "amount": 1000.0,
+                                "debit": null,
+                                "tags": [
+                                    "venmo_zelle_cashapp"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103176,
+                                "date": "2026-04-30",
+                                "description": "Zelle Payment From Tyler Mckay Nav0K5Jfl9Lx",
+                                "amount": 1785.0,
+                                "debit": null,
+                                "tags": [
+                                    "venmo_zelle_cashapp"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103177,
+                                "date": "2026-04-30",
+                                "description": "Book Transfer Customer Ref: 42Wfx8Rbf5Rkqiz B/O Customer= Paymentech LLC Bene Account= 363569705 Paydet= Deposit ID-42Wfx8Rbf5Rkqiz Uprid: Walj5Swvpfwv94W",
+                                "amount": 1733.71,
+                                "debit": null,
+                                "tags": [
+                                    "other_transfer"
+                                ],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103178,
+                                "date": "2026-04-10",
+                                "description": "Check 1541",
+                                "amount": null,
+                                "debit": 3927.85,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103179,
+                                "date": "2026-04-01",
+                                "description": "Recurring Card Purchase 03/31 Trthfdr*Truthfinder.CO 800-6998081 CA Card 9897",
+                                "amount": null,
+                                "debit": 31.11,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103180,
+                                "date": "2026-04-02",
+                                "description": "Card Purchase 03/31 City of Aberdeen 360-537-3210 WA Card 9897",
+                                "amount": null,
+                                "debit": 182.73,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103181,
+                                "date": "2026-04-09",
+                                "description": "Recurring Card Purchase 04/08 Grays Harbor PUD Smarthub.Ghpu WA Card 9897",
+                                "amount": null,
+                                "debit": 139.18,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103182,
+                                "date": "2026-04-15",
+                                "description": "Card Purchase 04/14 Tri Tek Systems 360-731-9859 WA Card 9897",
+                                "amount": null,
+                                "debit": 764.4,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103183,
+                                "date": "2026-04-16",
+                                "description": "Recurring Card Purchase 04/15 Quantum Fiber 833-250-6306 LA Card 9897",
+                                "amount": null,
+                                "debit": 85.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103184,
+                                "date": "2026-04-01",
+                                "description": "Orig CO Name:Carrington Orig ID:9673545010 Desc Date:260401 CO Entry Descr:Mortgage Sec:Web Trace#:021000029134141 Eed:260401 Ind ID:7000348104 Ind Name:Steve Young Telephone Trn: 0919134141Tc",
+                                "amount": null,
+                                "debit": 5584.5,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103185,
+                                "date": "2026-04-02",
+                                "description": "Orig CO Name:Servease Servici Orig ID:1016207445 Desc Date:040126 CO Entry Descr:Ng 8446710Sec:PPD Trace#:114094346080490 Eed:260402 Ind ID: Ind Name:Steve Young Trn: 0926080490Tc",
+                                "amount": null,
+                                "debit": 3989.84,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103186,
+                                "date": "2026-04-02",
+                                "description": "Orig CO Name:Red Stag Servici Orig ID:1832275776 Desc Date:260401 CO Entry Descr:Purchase Sec:Web Trace#:124000051651519 Eed:260402 Ind ID:000000151584915 Ind Name:Rei Lacey LLC Trn: 0921651519Tc",
+                                "amount": null,
+                                "debit": 25312.5,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103188,
+                                "date": "2026-04-02",
+                                "description": "Orig CO Name:American Express Orig ID:9493560001 Desc Date:260402 CO Entry Descr:ACH Pmt Sec:CCD Trace#:021000020685207 Eed:260402 Ind ID:A5734 Ind Name:Christina Young Am Trn: 0920685207Tc",
+                                "amount": null,
+                                "debit": 968.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103189,
+                                "date": "2026-04-03",
+                                "description": "Orig CO Name:Novuscapital II Orig ID:9874098183 Desc Date: CO Entry Descr:8886688732Sec:CCD Trace#:091408596729171 Eed:260403 Ind ID:140383675 Ind Name:Rem Olympia LLC Trn: 0936729171Tc",
+                                "amount": null,
+                                "debit": 6995.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103190,
+                                "date": "2026-04-03",
+                                "description": "Orig CO Name:City of Bremerto Orig ID:0000063576 Desc Date:260403 CO Entry Descr:Utility Sec:CCD Trace#:021000023026263 Eed:260403 Ind ID:2290696 Ind Name:Rem *Olympia 360-473-5290 Trn: 0933026263Tc",
+                                "amount": null,
+                                "debit": 630.19,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103191,
+                                "date": "2026-04-03",
+                                "description": "Orig CO Name:City of Bremerto Orig ID:0000063576 Desc Date:260403 CO Entry Descr:Utility Sec:CCD Trace#:021000023026236 Eed:260403 Ind ID:2290670 Ind Name:Rem *Olympia 360-473-5290 Trn: 0933026236Tc",
+                                "amount": null,
+                                "debit": 441.47,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103192,
+                                "date": "2026-04-06",
+                                "description": "Orig CO Name:City of Bremerto Orig ID:0000063576 Desc Date:260405 CO Entry Descr:Utility Sec:CCD Trace#:021000028032609 Eed:260406 Ind ID:2944445 Ind Name:Rem *Olympia 360-473-5290 Trn: 0968032609Tc",
+                                "amount": null,
+                                "debit": 158.16,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103193,
+                                "date": "2026-04-06",
+                                "description": "Orig CO Name:Cascade Natural Orig ID:2910599090 Desc Date:260403 CO Entry Descr:Payments Sec:PPD Trace#:042000010478884 Eed:260406 Ind ID: Ind Name:Rem Olympia Trn: 0960478884Tc",
+                                "amount": null,
+                                "debit": 82.71,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103194,
+                                "date": "2026-04-06",
+                                "description": "Orig CO Name:Chase Credit Crd Orig ID:4760039224 Desc Date:260405 CO Entry Descr:Autopaybussec:PPD Trace#:021000029802733 Eed:260406 Ind ID: Ind Name:Young Steve Trn: 0969802733Tc",
+                                "amount": null,
+                                "debit": 648.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103195,
+                                "date": "2026-04-06",
+                                "description": "Orig CO Name:American Express Orig ID:9493560001 Desc Date:260406 CO Entry Descr:ACH Pmt Sec:CCD Trace#:021000022341816 Eed:260406 Ind ID:A1550 Ind Name:Christina Young Am Trn: 0962341816Tc",
+                                "amount": null,
+                                "debit": 114.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103196,
+                                "date": "2026-04-07",
+                                "description": "Orig CO Name:Newrez-Shellpoin Orig ID:6371542226 Desc Date:260406 CO Entry Descr:ACH Pmt Sec:PPD Trace#:028000086517028 Eed:260407 Ind ID: Ind Name:Young Trn: 0976517028Tc",
+                                "amount": null,
+                                "debit": 4130.71,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103197,
+                                "date": "2026-04-08",
+                                "description": "Orig CO Name:Starlink Interne Orig ID:1800948598 Desc Date: CO Entry Descr:Starlink Isec:Web Trace#:091000015685445 Eed:260408 Ind ID:St-W1V8V2Q5E6A3 Ind Name:Steve Young Trn: 0985685445Tc",
+                                "amount": null,
+                                "debit": 125.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103200,
+                                "date": "2026-04-10",
+                                "description": "Orig CO Name:Novuscapital II Orig ID:9874098183 Desc Date: CO Entry Descr:8886688732Sec:CCD Trace#:091408596477760 Eed:260410 Ind ID:140796329 Ind Name:Rem Olympia LLC Trn: 1006477760Tc",
+                                "amount": null,
+                                "debit": 6995.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103201,
+                                "date": "2026-04-10",
+                                "description": "04/10 Online Realtime Transfer To Rei Lacey Checking Usb 7858 Transaction#: 28783833814",
+                                "amount": null,
+                                "debit": 1000.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103202,
+                                "date": "2026-04-10",
+                                "description": "04/10 Online Realtime Transfer To Rei Olympia Usb 7841 Transaction#: 28783860347",
+                                "amount": null,
+                                "debit": 1000.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103203,
+                                "date": "2026-04-15",
+                                "description": "Orig CO Name:Lightstream Orig ID:1253108792 Desc Date:260414 CO Entry Descr:Loan Pmts Sec:Web Trace#:053101128534797 Eed:260415 Ind ID:51889297 Ind Name:Young, Steve Trn: 1058534797Tc",
+                                "amount": null,
+                                "debit": 860.55,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103204,
+                                "date": "2026-04-15",
+                                "description": "Orig CO Name:American Express Orig ID:9493560001 Desc Date:260415 CO Entry Descr:ACH Pmt Sec:CCD Trace#:021000020016383 Eed:260415 Ind ID:A9010 Ind Name:Christina Young Am Trn: 1050016383Tc",
+                                "amount": null,
+                                "debit": 50.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103205,
+                                "date": "2026-04-16",
+                                "description": "Orig CO Name:Quantum Fiber Orig ID:0000742288 Desc Date:260416 CO Entry Descr:Quantum Fisec:CCD Trace#:021000025595213 Eed:260416 Ind ID:6884541 Ind Name:Rem *Olympia 833-250-6306 Trn: 1065595213Tc",
+                                "amount": null,
+                                "debit": 75.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103206,
+                                "date": "2026-04-17",
+                                "description": "Orig CO Name:Novuscapital II Orig ID:9874098183 Desc Date: CO Entry Descr:8886688732Sec:CCD Trace#:091408595960142 Eed:260417 Ind ID:141172357 Ind Name:Rem Olympia LLC Trn: 1075960142Tc",
+                                "amount": null,
+                                "debit": 6995.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103207,
+                                "date": "2026-04-17",
+                                "description": "Orig CO Name:Cascade Natural Orig ID:2910599090 Desc Date:260415 CO Entry Descr:Payments Sec:PPD Trace#:042000015929871 Eed:260417 Ind ID: Ind Name:Rem Olympia Trn: 1075929871Tc",
+                                "amount": null,
+                                "debit": 92.85,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103208,
+                                "date": "2026-04-17",
+                                "description": "Orig CO Name:Cascade Natural Orig ID:2910599090 Desc Date:260415 CO Entry Descr:Payments Sec:PPD Trace#:042000015929466 Eed:260417 Ind ID: Ind Name:Rem Olympia Trn: 1075929466Tc",
+                                "amount": null,
+                                "debit": 88.3,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103209,
+                                "date": "2026-04-17",
+                                "description": "Orig CO Name:Cascade Natural Orig ID:2910599090 Desc Date:260415 CO Entry Descr:Payments Sec:PPD Trace#:042000015929271 Eed:260417 Ind ID: Ind Name:Rem Olympia Trn: 1075929271Tc",
+                                "amount": null,
+                                "debit": 9.68,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103210,
+                                "date": "2026-04-17",
+                                "description": "Orig CO Name:Cascade Natural Orig ID:2910599090 Desc Date:260415 CO Entry Descr:Payments Sec:PPD Trace#:042000015929394 Eed:260417 Ind ID: Ind Name:Chase Bank Trn: 1075929394Tc",
+                                "amount": null,
+                                "debit": 9.68,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103211,
+                                "date": "2026-04-17",
+                                "description": "Orig CO Name:Cascade Natural Orig ID:2910599090 Desc Date:260415 CO Entry Descr:Payments Sec:PPD Trace#:042000015929437 Eed:260417 Ind ID: Ind Name:Rem Olympia LLC Trn: 1075929437Tc",
+                                "amount": null,
+                                "debit": 9.68,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103212,
+                                "date": "2026-04-17",
+                                "description": "Orig CO Name:Cascade Natural Orig ID:2910599090 Desc Date:260415 CO Entry Descr:Payments Sec:PPD Trace#:042000015929502 Eed:260417 Ind ID: Ind Name:Rem Olympia Trn: 1075929502Tc",
+                                "amount": null,
+                                "debit": 9.68,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103213,
+                                "date": "2026-04-17",
+                                "description": "Orig CO Name:Cascade Natural Orig ID:2910599090 Desc Date:260415 CO Entry Descr:Payments Sec:PPD Trace#:042000015929461 Eed:260417 Ind ID: Ind Name:Rem Olympia Trn: 1075929461Tc",
+                                "amount": null,
+                                "debit": 7.97,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103214,
+                                "date": "2026-04-17",
+                                "description": "Orig CO Name:Cascade Natural Orig ID:2910599090 Desc Date:260415 CO Entry Descr:Payments Sec:PPD Trace#:042000015929708 Eed:260417 Ind ID: Ind Name:Rem Olympia LLC Trn: 1075929708Tc",
+                                "amount": null,
+                                "debit": 7.97,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103215,
+                                "date": "2026-04-17",
+                                "description": "Orig CO Name:Cascade Natural Orig ID:2910599090 Desc Date:260415 CO Entry Descr:Payments Sec:PPD Trace#:042000015929332 Eed:260417 Ind ID: Ind Name:Rem Olympia LLC Trn: 1075929332Tc",
+                                "amount": null,
+                                "debit": 6.23,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103216,
+                                "date": "2026-04-17",
+                                "description": "Orig CO Name:Cascade Natural Orig ID:2910599090 Desc Date:260415 CO Entry Descr:Payments Sec:PPD Trace#:042000015929610 Eed:260417 Ind ID: Ind Name:Rem Olympia Trn: 1075929610Tc",
+                                "amount": null,
+                                "debit": 6.23,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103218,
+                                "date": "2026-04-20",
+                                "description": "Orig CO Name:Reinsurepro Orig ID:1911718107 Desc Date: CO Entry Descr:Purchase Sec:Web Trace#:104000017529760 Eed:260420 Ind ID:M121577898060 Ind Name:Rem Olympia LLC Trn: 1107529760Tc",
+                                "amount": null,
+                                "debit": 882.17,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103224,
+                                "date": "2026-04-22",
+                                "description": "Orig CO Name:Home Depot Orig ID:Citiautfdr Desc Date:260421 CO Entry Descr:Auto Pymt Sec:Web Trace#:122402152605545 Eed:260422 Ind ID:721966360141068 Ind Name:Alternative Project CO Trn: 1122605545Tc",
+                                "amount": null,
+                                "debit": 4477.0,
+                                "tags": [],
+                                "revenue": null
+                            },
+                            {
+                                "transaction_id": 1103226,
+                                "date": "2026-04-22",
+                                "description": "Orig CO Name:Waste Management Orig ID:9580653001 Desc Date:260421 CO Entry Descr:Payment Sec:PPD Trace#:021000022673249 Eed:260422 Ind ID: Ind Name:Rem Olympia Trn: 1122673249Tc",
+                                "amount": null,
+                                "debit": 100.78,
+                                "tags": [],
+                                "revenue": null
+                            }
+                        ],
+                        "statement_period": "2026-04-APR",
+                        "confidence_percentage": 98.57,
+                        "total_actual_deposits": 78954.13,
+                        "deposits_validation_flag": "OK",
+                        "total_extracted_deposits": 78954.13
                     }
                 ]
             }
         }
     ],
-    "usage_summary_parsing": {
-        "extraction_token_usage": {
-            "input_tokens": 45644,
-            "output_tokens": 37776
-        },
-        "tagging_token_usage": {
-            "input_tokens": 32857,
-            "output_tokens": 20099
-        }
-    },
-    "usage_summary_ocr": 0.032,
-    "total_transactions": 486,
-    "total_pages": 32,
-    "total_cost_in_usd": 0.0572126,
-    "char_count": 95273
+    "total_transactions": 222
 }
