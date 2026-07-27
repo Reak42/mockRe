@@ -1,10 +1,189 @@
 {
-  "requiredOppId": "006Ec00000SouOfIAJ",
-  "requiredBookId": "95ceaa66-82da-4dfe-96ec-752f86174bee",
-
-  "data": {
-    "status": "APPROVED",
-    "limit": 25000,
-    "comment": "Mock response from GitHub JSON"
-  }
+  "positions": [
+    {
+      "use_dragin_ai_result": false,
+      "complete_data_agreement": null,
+      "name": "ONDECK CAPITAL",
+      "amount": 1000.0,
+      "frequency": "weekly",
+      "active": true,
+      "inclusion_rule": "always",
+      "account": "1651675728",
+      "dates_of_payments": {
+        "2026-03-06": -1000.0,
+        "2026-03-13": -1000.0,
+        "2026-03-20": -1000.0,
+        "2026-03-27": -1000.0,
+        "2026-04-03": -1000.0,
+        "2026-04-10": -1000.0,
+        "2026-04-17": -1000.0,
+        "2026-04-24": -1000.0,
+        "2026-05-01": -1000.0,
+        "2026-05-08": -1000.0,
+        "2026-05-15": -1000.0,
+        "2026-05-22": -1000.0
+      },
+      "dates_of_advances": {
+        "2026-02-27": 45000.0
+      },
+      "alerts": {
+        "2026-05-29": {
+          "category": "Missed Payment",
+          "additional_info": "Missed expected payment of $1,000.00 for a Weekly position."
+        },
+        "2026-06-05": {
+          "category": "Makeup Payment",
+          "additional_info": "$1,000.00 makeup payment after the missed payment on 2026-05-29."
+        }
+      }
+    },
+    {
+      "use_dragin_ai_result": false,
+      "complete_data_agreement": null,
+      "name": "LINE OF CREDIT",
+      "amount": null,
+      "frequency": null,
+      "active": false,
+      "inclusion_rule": "never",
+      "account": "1651675728",
+      "dates_of_payments": {
+        "2026-03-12": -1500.0,
+        "2026-05-04": -665.0
+      },
+      "dates_of_advances": {},
+      "alerts": {}
+    },
+    {
+      "use_dragin_ai_result": false,
+      "complete_data_agreement": null,
+      "name": "HEADWAY CAPITAL",
+      "amount": 2200.0,
+      "frequency": "weekly",
+      "active": true,
+      "inclusion_rule": "temporary_yes",
+      "account": "888800001111",
+      "dates_of_payments": {
+        "2026-04-02": -2200.0,
+        "2026-04-09": -2200.0,
+        "2026-04-16": -2200.0,
+        "2026-04-23": -2200.0
+      },
+      "dates_of_advances": {
+        "2026-03-26": 30000.0
+      },
+      "alerts": {}
+    }
+  ],
+  "recurring_transactions": [
+    {
+      "name": "ONDECK CAPITAL ACH PAYMENT",
+      "amount": 1000.0,
+      "frequency": "weekly",
+      "account": "1651675728",
+      "dates_of_transactions": {
+        "2026-06-05": "ACH DEBIT ONDECK CAPITAL PAYMENT ID 0605",
+        "2026-06-12": "ACH DEBIT ONDECK CAPITAL PAYMENT ID 0612",
+        "2026-06-19": "ACH DEBIT ONDECK CAPITAL PAYMENT ID 0619",
+        "2026-06-26": "ACH DEBIT ONDECK CAPITAL PAYMENT ID 0626"
+      },
+      "use_dragin_ai_result": false,
+      "complete_data_agreement": null
+    },
+    {
+      "name": "FIFTH THIRD BANK WEB PAY",
+      "amount": 835.08,
+      "frequency": "monthly",
+      "account": "1651675728",
+      "dates_of_transactions": {
+        "2026-03-10": "Fifth Third Bank Web Pay 260309",
+        "2026-04-10": "Fifth Third Bank Web Pay 260409",
+        "2026-05-12": "Fifth Third Bank Web Pay 260509",
+        "2026-06-10": "Fifth Third Bank Web Pay 260609"
+      },
+      "use_dragin_ai_result": false,
+      "complete_data_agreement": null
+    },
+    {
+      "name": "HEADWAY CAPITAL ACH",
+      "amount": 2200.0,
+      "frequency": "weekly",
+      "account": "888800001111",
+      "dates_of_transactions": {
+        "2026-05-07": "ACH DEBIT HEADWAY CAPITAL PAYMENT",
+        "2026-05-14": "ACH DEBIT HEADWAY CAPITAL PAYMENT",
+        "2026-05-21": "ACH DEBIT HEADWAY CAPITAL PAYMENT",
+        "2026-05-28": "ACH DEBIT HEADWAY CAPITAL PAYMENT"
+      },
+      "use_dragin_ai_result": false,
+      "complete_data_agreement": null
+    }
+  ],
+  "accounts": [
+    "1651675728",
+    "888800001111"
+  ],
+  "bank_statement_links": [
+    {
+      "url": "",
+      "filename": "MAR-5728",
+      "fraud": {
+        "score": 95,
+        "reasons": [
+          "Mock bank statement. No suspicious editing patterns detected."
+        ],
+        "score_description": "Low"
+      },
+      "data_extracted": true,
+      "reconciled": true,
+      "failed_reconcile_amount": 0.0
+    },
+    {
+      "url": "",
+      "filename": "APR-5728",
+      "fraud": {
+        "score": 95,
+        "reasons": [
+          "Mock bank statement. No suspicious editing patterns detected."
+        ],
+        "score_description": "Low"
+      },
+      "data_extracted": true,
+      "reconciled": true,
+      "failed_reconcile_amount": 0.0
+    },
+    {
+      "url": "",
+      "filename": "MAY-5728",
+      "fraud": {
+        "score": 95,
+        "reasons": [
+          "Mock bank statement. No suspicious editing patterns detected."
+        ],
+        "score_description": "Low"
+      },
+      "data_extracted": true,
+      "reconciled": true,
+      "failed_reconcile_amount": 0.0
+    },
+    {
+      "url": "",
+      "filename": "JUN-5728",
+      "fraud": {
+        "score": 95,
+        "reasons": [
+          "Mock bank statement. No suspicious editing patterns detected."
+        ],
+        "score_description": "Low"
+      },
+      "data_extracted": true,
+      "reconciled": true,
+      "failed_reconcile_amount": 0.0
+    }
+  ],
+  "fraud_risk": {
+    "score": 95,
+    "score_description": "Low"
+  },
+  "new_data": true,
+  "deal_name": "Mock Merge Scenario LLC"
 }
