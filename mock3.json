@@ -125,7 +125,6 @@
   "bank_statement_links": [
     {
       "url": "",
-      "filename": "MAR-5728",
       "fraud": {
         "score": 95,
         "reasons": [
@@ -135,11 +134,14 @@
       },
       "data_extracted": true,
       "reconciled": true,
-      "failed_reconcile_amount": 0.0
+      "failed_reconcile_amount": 0.0,
+      "page_count": 10,
+      "filename": "JAN-9705",
+      "period_label": "January 2026",
+      "resource_path": "JAN-9705-CHASE.pdf"
     },
     {
       "url": "",
-      "filename": "APR-5728",
       "fraud": {
         "score": 95,
         "reasons": [
@@ -149,11 +151,14 @@
       },
       "data_extracted": true,
       "reconciled": true,
-      "failed_reconcile_amount": 0.0
+      "failed_reconcile_amount": 0.0,
+      "page_count": 10,
+      "filename": "FEB-9705",
+      "period_label": "February 2026",
+      "resource_path": "FEB-9705-CHASE.pdf"
     },
     {
       "url": "",
-      "filename": "MAY-5728",
       "fraud": {
         "score": 95,
         "reasons": [
@@ -163,11 +168,14 @@
       },
       "data_extracted": true,
       "reconciled": true,
-      "failed_reconcile_amount": 0.0
+      "failed_reconcile_amount": 0.0,
+      "page_count": 10,
+      "filename": "MAR-9705",
+      "period_label": "March 2026",
+      "resource_path": "MAR-9705-CHASE.pdf"
     },
     {
       "url": "",
-      "filename": "JUN-5728",
       "fraud": {
         "score": 95,
         "reasons": [
@@ -177,7 +185,11 @@
       },
       "data_extracted": true,
       "reconciled": true,
-      "failed_reconcile_amount": 0.0
+      "failed_reconcile_amount": 0.0,
+      "page_count": 10,
+      "filename": "APR-9705",
+      "period_label": "April 2026",
+      "resource_path": "APR-9705-CHASE.pdf"
     }
   ],
   "fraud_risk": {
