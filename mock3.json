@@ -88,8 +88,7 @@
       },
       "use_dragin_ai_result": false,
       "complete_data_agreement": null
-    },
-    "recurring_transactions": [
+    },    
     {
       "name": "ONDECK CAPITAL ACH PAYMENT22",
       "amount": 1000.0,
