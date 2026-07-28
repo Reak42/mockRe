@@ -89,6 +89,21 @@
       "use_dragin_ai_result": false,
       "complete_data_agreement": null
     },
+    "recurring_transactions": [
+    {
+      "name": "ONDECK CAPITAL ACH PAYMENT22",
+      "amount": 1000.0,
+      "frequency": "weekly",
+      "account": "1651675728",
+      "dates_of_transactions": {
+        "2026-06-05": "ACH DEBIT ONDECK CAPITAL PAYMENT ID 0605",
+        "2026-06-12": "ACH DEBIT ONDECK CAPITAL PAYMENT ID 0612",
+        "2026-06-19": "ACH DEBIT ONDECK CAPITAL PAYMENT ID 0619",
+        "2026-06-26": "ACH DEBIT ONDECK CAPITAL PAYMENT ID 0626"
+      },
+      "use_dragin_ai_result": false,
+      "complete_data_agreement": null
+    },
     {
       "name": "FIFTH THIRD BANK WEB PAY",
       "amount": 835.08,
